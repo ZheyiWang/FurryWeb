@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/gosloo.css" media="screen, projection">
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>Contact Us</title>
+    <title>联系我们</title>
 </head>
 
 <body>
@@ -42,12 +42,12 @@
 
                 <nav class="header-nav navbar-collapse collapse" role="navigation">
                     <ul class="nav nav-pills">
-                        <li><a href="index.jsp">Home</a></li>
-                        <li><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li class="active"><a href="contact.jsp">Contact Us</a></li>
-                        <li><a href="contact_cn.jsp">中文</a></li>                          
+                        <li><a href="index_cn.jsp">主页</a></li>
+                        <li><a href="about_cn.jsp">关于我们</a></li>                        
+                        <li><a href="portfolio_cn.jsp">作品集</a></li>
+                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li class="active"><a href="contact_cn.jsp">联系我们</a></li> 
+                        <li><a href="contact.jsp">English</a></li>                        
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -72,13 +72,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">Contact Us</h1>
+                        <h1 class="header-title-main">联系我们</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
-                                <li><a href="index.jsp">Home</a></li>
-                                <li><a href="about.jsp">About Us</a></li>                        
-                                <li class="active"><a href="contact.jsp">Contact Us</a></li>                        
+                                <li><a href="index_cn.jsp">主页</a></li>
+                                <li><a href="about_cn.jsp">关于我们</a></li>                        
+                                <li class="active"><a href="contact_cn.jsp">联系我们</a></li>                        
                             </ul>
                         </div>
                     </div><!-- /.col-->
@@ -92,33 +92,34 @@
             <div class="main-inner">
                 <div class="container">
 
-                    <!-- ABOUT OUR COMPANY -->
+ 				<!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">About Our <span class="light">Company</span></h2>
+                            <h2 class="block-title">关于 <span class="light">我们公司</span></h2>
 
                             <div class="has-arrow block-large-text">
                                 <p>
-                                    Company introduction puts here
+                                    	公司介绍
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">Read More</a>
+                                <a href="#" class="btn btn-primary btn-large">了解更多</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
+
                     <!-- MESSAGE -->
                     <div class="block-content background-twitter has-ears">
                         <div class="block-content-inner">
-                            <h2 class="block-title white">Post a <span class="light">Message</span></h2>
+                            <h2 class="block-title white">留 <span class="light">言</span></h2>
 
                             <form method="post" action="?" class="reset-block-padding">
                                 <div class="row">
                                     <div class="form-group col-sm-8">
-                                        <input type="text" class="form-control input-transparent" placeholder="Name">
+                                        <input type="text" class="form-control input-transparent" placeholder="名字">
                                     </div><!-- /.form-group -->
 
                                     <div class="form-group col-sm-8">
-                                        <input type="email" class="form-control input-transparent" placeholder="Your email">
+                                        <input type="email" class="form-control input-transparent" placeholder="电子邮箱地址">
                                     </div><!-- /.form-group -->
 
                                     <div class="form-group col-sm-8">
@@ -126,11 +127,11 @@
                                     </div><!-- /.form-group -->
 
                                     <div class="form-group col-sm-12">
-                                        <textarea class="form-control input-transparent" rows="7" placeholder="Message"></textarea>                                    
+                                        <textarea class="form-control input-transparent" rows="7" placeholder="信息"></textarea>                                    
                                     </div><!-- /.form-group -->
 
                                     <div class="col-sm-12">
-                                        <a href="#" class="btn btn-large btn-white">Post Comment</a>
+                                        <a href="#" class="btn btn-large btn-white">留言</a>
                                     </div>
                                 </div><!-- /.row-->                                
                             </form>
@@ -144,14 +145,14 @@
                                 <div class="col-xs-12 xs-mb30 col-sm-8 col-md-9">
                                     <div class="block-large-text has-arrow">
                                         <p class="no-margin-bottom">
-                                        More Details
+                                      		  更多
                                         </p>
 
                                     </div><!-- /.block-large-text -->
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -182,33 +183,33 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; 2015.Company name All rights reserved.
+                                    	 版权所有 &copy; 满度科技有限公司
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
-                                            <a href="index.jsp">Home</a>                                        
+                                            <a href="index_cn.jsp">主页</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about_cn.jsp">关于我们</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio_cn.jsp">作品集</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog_cn.jsp">博客</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li>
+                                            <a href="contact_cn.jsp">联系我们</a>
+                                        </li>   
                                         <li>
-                                            <a href="private.jsp">Private Policy</a>
-                                        </li>                                                                                                                                      
+                                            <a href="private_cn.jsp">隐私条款</a>
+                                        </li>                                                                                                                                         
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

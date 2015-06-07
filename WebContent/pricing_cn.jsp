@@ -1,22 +1,20 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
     <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Pragmatic Mates s.r.o. - http://pragmaticmates.com">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <link rel="shortcut icon" href="#">    
     <link rel="stylesheet" type="text/css" href="assets/css/animate.css" media="screen, projection">
     <link rel="stylesheet" type="text/css" href="assets/libraries/font-awesome/css/font-awesome.css" media="screen, projection">
     <link rel="stylesheet" type="text/css" href="assets/libraries/rs-plugin/css/settings.css" media="screen, projection">
     <link rel="stylesheet" type="text/css" href="assets/css/animate.css" media="screen, projection">
     <link rel="stylesheet" type="text/css" href="assets/css/gosloo.css" media="screen, projection">
-
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
     <title>Pricing</title>
@@ -73,7 +71,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">Pricing Tables</h1>
+                        <h1 class="header-title-main">可能不用这一页，留空</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">

@@ -17,7 +17,7 @@
 
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>Blog</title>
+    <title>博客</title>
 </head>
 
 <body>
@@ -41,12 +41,12 @@
 
                 <nav class="header-nav navbar-collapse collapse" role="navigation">
                     <ul class="nav nav-pills">
-                        <li><a href="index.jsp">Home</a></li>
-                        <li><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li class="active"><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li>
-                        <li><a href="blog_cn.jsp">中文</a></li>                        
+                        <li><a href="index_cn.jsp">主页</a></li>
+                        <li><a href="about_cn.jsp">关于我们</a></li>                        
+                        <li><a href="portfolio_cn.jsp">作品集</a></li>
+                        <li class="active"><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="contact_cn.jsp">联系我们</a></li>
+                        <li><a href="blog.jsp">English</a></li>                        
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -71,7 +71,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">Blog</h1>
+                        <h1 class="header-title-main">博客</h1>
 
                         <div class="header-title-search">
                             <form method="get" action="?" class="col-sm-3 pull-right">
@@ -95,60 +95,60 @@
                         <div class="sidebar col-sm-4">
                             <div class="sidebar-inner">
                                 <div class="widget background-purple">
-                                    <h2 class="block-subtitle">Contents</h2>
+                                    <h2 class="block-subtitle">内容</h2>
 
                                     <div class="list-group large-spacing">
                                         <a href="detail.jsp" class="list-group-item">
-                                            <p class="list-group-item-text">contents1</p>
+                                            <p class="list-group-item-text">内容1</p>
                                         </a>
 
                                         <a href="detail.jsp" class="list-group-item">
-                                            <p class="list-group-item-text">contents2</p>
+                                            <p class="list-group-item-text">内容2</p>
                                         </a>
 
                                         <a href="detail.jsp" class="list-group-item">
-                                            <p class="list-group-item-text">contents3</p>
+                                            <p class="list-group-item-text">内容3</p>
                                         </a>                                    
                                     </div>                                
                                 </div><!-- /.widget -->
 
                                 <div class="widget background-azur">
-                                    <h2 class="block-subtitle">Categories</h2>
+                                    <h2 class="block-subtitle">分类</h2>
 
                                     <ul class="list-group">
                                         <li class="list-group-item">
-                                            <span class="badge">357</span> <a href="#">Categories 1</a>
+                                            <span class="badge">357</span> <a href="#">分类 1</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">273</span> <a href="#">Categories 2</a>
+                                            <span class="badge">273</span> <a href="#">分类 2</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">126</span> <a href="#">Categories 3</a>
+                                            <span class="badge">126</span> <a href="#">分类 3</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">82</span> <a href="#">Categories 4</a>
+                                            <span class="badge">82</span> <a href="#">分类 4</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">50</span> <a href="#">Categories 5</a>
+                                            <span class="badge">50</span> <a href="#">分类 5</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">12</span> <a href="#">Categories 6</a>
+                                            <span class="badge">12</span> <a href="#">分类 6</a>
                                         </li>
                                     </ul>
                                 </div><!-- /.widget -->                        
 
                                 <div class="widget background-green">
-                                    <h2 class="block-subtitle">Tags</h2>
+                                    <h2 class="block-subtitle">标签</h2>
 
                                     <div class="tags">
-                                        <a href="detail.jsp" class="btn btn-white">Tags 1</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 2</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 3</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 4</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 5</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 6</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 7</a>
-                                        <a href="detail.jsp" class="btn btn-white">Tags 8</a>
+                                        <a href="#" class="btn btn-white">标签 1</a>
+                                        <a href="#" class="btn btn-white">标签 2</a>
+                                        <a href="#" class="btn btn-white">标签 3</a>
+                                        <a href="#" class="btn btn-white">标签 4</a>
+                                        <a href="#" class="btn btn-white">标签 5</a>
+                                        <a href="#" class="btn btn-white">标签 6</a>
+                                        <a href="#" class="btn btn-white">标签 7</a>
+                                        <a href="#" class="btn btn-white">标签 8</a>
                                     </div><!-- /.tags -->
                                 </div><!-- /.widget -->                                   
                             </div><!-- /.sidebar-inner -->
@@ -173,11 +173,11 @@
                                         <div class="blog-grid-item-content">
                                             <div class="blog-grid-item-content-inner">
                                                 <div class="blog-grid-item-content-padding">
-                                                    <h2><a href="detail.jsp">Title</a></h2>
+                                                    <h2><a href="detail.jsp">标题</a></h2>
 
                                                     <div class="blog-grid-item-meta">
                                                         <span class="blog-grid-item-meta-date badge">
-                                                            <i class="fa fa-calendar"></i> 10 Jan
+                                                            <i class="fa fa-calendar"></i> 10 一月
                                                         </span><!-- /.blog-grid-item-meta-date -->
 
                                                         <span class="blog-grid-item-meta-comments badge">
@@ -189,15 +189,15 @@
                                                         </span><!-- /.blog-grid-item-meta-author -->                                
 
                                                         <span class="blog-grid-item-meta-tags badge">
-                                                            <i class="fa fa-tags"></i> WordPress
+                                                            <i class="fa fa-tags"></i> 内容
                                                         </span><!-- /.blog-grid-item-meta-author -->                                  
                                                     </div><!-- /.blog-grid-item-meta -->                                            
 
                                                     <p>
-                                                       contents
+                                                     	  内容
                                                     </p>
 
-                                                    <a href="detail.jsp" class="btn btn-primary">Read More</a>
+                                                    <a href="detail.jsp" class="btn btn-primary">了解更多</a>
                                                 </div><!-- /.blog-grid-item-content-padding -->
                                             </div><!-- /.blog-grid-item-content-inner -->
                                         </div><!-- /.blog-grid-item-content -->
@@ -219,11 +219,11 @@
                                         <div class="blog-grid-item-content">
                                             <div class="blog-grid-item-content-inner">
                                                 <div class="blog-grid-item-content-padding">
-                                                    <h2><a href="detail.jsp">Title 2</a></h2>
+                                                    <h2><a href="detail.jsp">标题 2</a></h2>
 
                                                     <div class="blog-grid-item-meta">
                                                         <span class="blog-grid-item-meta-date badge">
-                                                            <i class="fa fa-calendar"></i> 10 Jan
+                                                            <i class="fa fa-calendar"></i> 10 一月
                                                         </span><!-- /.blog-grid-item-meta-date -->
 
                                                         <span class="blog-grid-item-meta-comments badge">
@@ -235,15 +235,15 @@
                                                         </span><!-- /.blog-grid-item-meta-author -->                                
 
                                                         <span class="blog-grid-item-meta-tags badge">
-                                                            <i class="fa fa-tags"></i> WordPress
+                                                            <i class="fa fa-tags"></i> 内容
                                                         </span><!-- /.blog-grid-item-meta-author -->                                                                                                                        
                                                     </div><!-- /.blog-grid-item-meta -->                                            
 
                                                     <p>
-                                                      contents
+                                                    	  内容
                                                     </p>
 
-                                                    <a href="detail.jsp" class="btn btn-primary">Read More</a>
+                                                    <a href="detail.jsp" class="btn btn-primary">了解更多</a>
                                                 </div><!-- /.blog-grid-item-content-padding -->
                                             </div><!-- /.blog-grid-item-content-inner -->
                                         </div><!-- /.blog-grid-item-content -->
@@ -254,7 +254,7 @@
                             <!-- LOAD MORE FOR BLOG -->
                             <div class="block-content background-twitter has-ears small-padding no-margin-bottom">
                                 <div class="block-content-inner center">
-                                    <a href="#" class="btn btn-large btn-white">Load More</a>
+                                    <a href="#" class="btn btn-large btn-white">更多</a>
                                 </div><!-- /.block-content-inner -->
                             </div><!-- /.block-content -->                            
                         </div><!-- /.content -->
@@ -266,12 +266,12 @@
                             <form method="post" action="?" class="row">
                                 <div class="col-sm-8 col-md-9">
                                     <div class="form-group no-margin-bottom">
-                                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your E-mail Address">
+                                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="您的电子邮箱地址">
                                     </div><!-- /.form-group -->
                                 </div><!-- /.col-sm-9 -->
 
                                 <div class="col-sm-4 col-md-3">
-                                    <button class="btn btn-large btn-primary btn-block">Subscribe</button>
+                                    <button class="btn btn-large btn-primary btn-block">订阅</button>
                                 </div><!-- /.col-sm-3 -->
                             </form>
                         </div><!-- /.block-content-inner -->
@@ -303,34 +303,35 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                     <p>
-                                        Copyright &copy; 2015.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a>
+                                        版权所有 &copy; 满度科技有限公司
                                     </p>
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
-                                            <a href="index.jsp">Home</a>                                        
+                                            <a href="index_cn.jsp">主页</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about_cn.jsp">关于我们</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio_cn.jsp">作品集</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog_cn.jsp">博客</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact_cn.jsp">联系我们</a>
+                                        </li>   
                                         <li>
-                                            <a href="private.jsp">Private Policy</a>
-                                        </li>                                                                                                                                     
+                                            <a href="private_cn.jsp">隐私条款</a>
+                                        </li>   
+                                                                                                                                                                                 
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

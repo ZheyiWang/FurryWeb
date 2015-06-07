@@ -1,4 +1,5 @@
 <%@page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -15,7 +16,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/animate.css" media="screen, projection">
     <link rel="stylesheet" type="text/css" href="assets/css/gosloo.css" media="screen, projection">
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
-    <title>Furry Project</title>
+    <title>饭事</title>
 </head>
 
 <body>
@@ -30,12 +31,12 @@
 
                 <nav class="header-nav navbar-collapse collapse" role="navigation">
                     <ul class="nav nav-pills">
-                        <li class="active"><a href="index.jsp">Home</a></li>
-                        <li><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li> 
-                        <li><a href="index_cn.jsp">中文</a></li>                     
+                        <li class="active"><a href="index_cn.jsp">主页</a></li>
+                        <li><a href="about_cn.jsp">关于我们</a></li>                        
+                        <li><a href="portfolio_cn.jsp">作品集</a></li>
+                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="contact_cn.jsp">联系我们</a></li> 
+                        <li><a href="index_cn.jsp">English</a></li>                    
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -45,13 +46,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button><!-- /.navbar-toggle -->
-
+ 
                 <ul class="social">
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
+                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>     
+                                                                          
                 </ul><!-- /.social -->
             </div><!-- /.header-inner -->
         </div><!-- /.header -->
@@ -85,7 +87,7 @@
                                     data-width="248"
                                     data-height="209">
 
-                                    <h2 class="block-title white">Furry <span class="light">Project</span></h2>
+                                    <h2 class="block-title white">饭 <span class="light">事</span></h2>
                                 </div>                                   
 
                                 <!-- DESCRIPTION -->
@@ -99,13 +101,13 @@
 
                                     <div class="block-large-text has-arrow white">
                                         <p>
-                                            Introduction of Furry Project <br>
-                                            add content here <br>
-                                            add content here <br>
-                                            add content here.
+                                          	 饭事介绍 <br>
+                                            	介绍 <br>
+                                            	 介绍 <br>
+                                           		 介绍
                                         </p>
 
-                                        <a href="#" class="btn btn-large btn-white">Read More</a>
+                                        <a href="#" class="btn btn-large btn-white">了解更多</a>
                                     </div><!-- /.block-large-text -->
                                 </div>                                
                             </li>
@@ -133,7 +135,7 @@
                                     data-width="248"
                                     data-height="209">
 
-                                    <h2 class="block-title white">Furry <span class="light">Project</span></h2>
+                                    <h2 class="block-title white"> 饭 <span class="light"> 事</span></h2>
                                 </div>                                   
 
                                 <!-- DESCRIPTION -->
@@ -147,13 +149,13 @@
 
                                     <div class="block-large-text has-arrow white">
                                         <p>
-  											Introduction of Furry Project <br>
-                                            add content here <br>
-                                            add content here <br>
-                                            add content here.
+  											 饭事介绍<br>
+                                          	  内容 <br>
+                                           	  内容 <br>
+                                            	内容
                                         </p>
                                         
-                                        <a href="#" class="btn btn-large btn-white">Read More</a>
+                                        <a href="#" class="btn btn-large btn-white">了解更多</a>
                                     </div><!-- /.block-large-text -->
                                 </div>                                
                             </li>                            
@@ -183,11 +185,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 1</a></h2>
+                                                        <h2><a href="#">介绍 1</a></h2>
 
-                                                        <p>Introduction 1 contents</p>
+                                                        <p>介绍 1 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -197,11 +199,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 2</a></h2>
+                                                        <h2><a href="#">介绍 2</a></h2>
 
-                                                        <p>Introduction 2 contents</p>
+                                                        <p>介绍 2 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -227,11 +229,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-left sm-float-right">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 3</a></h2>
+                                                        <h2><a href="#">介绍 3</a></h2>
 
-                                                        <p>Indroduction 3 contents</p>
+                                                        <p>介绍 3 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -241,11 +243,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 4</a></h2>
+                                                        <h2><a href="#">介绍 4</a></h2>
 
-                                                        <p>Indroduction 4 contents</p>
+                                                        <p>介绍 4 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -265,13 +267,13 @@
                     <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">About Our <span class="light">Company</span></h2>
+                            <h2 class="block-title">关于 <span class="light">我们公司</span></h2>
 
                             <div class="has-arrow block-large-text">
                                 <p>
-                                    Company introduction puts here
+                                    	公司介绍
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">Read More</a>
+                                <a href="#" class="btn btn-primary btn-large">了解更多</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -279,11 +281,11 @@
                     <!-- OUR CLIENTS -->
                     <div class="block-content background-white no-margin-bottom fullwidth">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Our <span class="light">Clients</span></h2>
+                            <h2 class="block-title">我们的 <span class="light">客户</span></h2>
 
                             <div class="has-arrow block-large-text mb50">
                                 <p>
-                                   Client puts here
+                                   	客户信息
                                 </p>
                             </div><!-- /.block-large-text -->
 
@@ -323,14 +325,14 @@
                                 <div class="item active">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-7 col-md-5">
-                                            <h2 class="block-title">Production <span class="light">Production 1</span></h2>
+                                            <h2 class="block-title">产品 <span class="light">介绍1</span></h2>
 
                                             <div class="block-large-text has-arrow">
                                                 <p>
-                                                    Production Production 1 contents
+                                                   		产品介绍1
                                                 </p>
 
-                                                <a href="#" class="btn btn-white btn-large">View Detals</a>
+                                                <a href="#" class="btn btn-white btn-large">查看详情</a>
                                             </div><!-- /.block-large-text -->
                                         </div>
 
@@ -347,11 +349,11 @@
                                         </div>
 
                                         <div class="col-xs-12 col-sm-7 col-md-7">
-                                            <h2 class="block-title">Production <span class="light">Production 2</span></h2>
+                                            <h2 class="block-title">产品 <span class="light">介绍2</span></h2>
 
                                             <div class="block-large-text has-arrow">
                                                 <p>
-                                                   Production Production 2 contents
+                                                 		 产品介绍2
                                                 </p>
                                             </div><!-- /.block-large-text -->
                                         </div>
@@ -372,11 +374,11 @@
                     <!-- CREATIVE TEAM -->
                     <div class="block-content background-white no-margin-bottom">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Creative <span class="light">Team</span></h2>
+                            <h2 class="block-title">我们的 <span class="light">团队</span></h2>
 
                             <div class="block-large-text has-arrow">
                                 <p>
-                                    Team Indroduction members:
+                                    		团队信息
                                 </p>
                             </div><!-- /.block-large-text -->
 
@@ -399,11 +401,11 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 1</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 1</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  	  简介
                                                 </p>
 
                                                 <ul class="social">
@@ -434,11 +436,11 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-left">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 2</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 2</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                     Briefly indroduction
+                                                  		  简介
                                                 </p>
 
                                                 <ul class="social">
@@ -455,11 +457,11 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-right">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 3</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 3</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  			  简介
                                                 </p>
 
                                                 <ul class="social">
@@ -490,11 +492,11 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 4</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 4</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  		 简介
                                                 </p>
 
                                                 <ul class="social">
@@ -525,7 +527,7 @@
                             </div><!-- /.reset-block-padding -->
 
                             <div class="center">
-                                <a href="#" class="btn btn-primary btn-large">Check Details</a>
+                                <a href="#" class="btn btn-primary btn-large">查看详情</a>
                             </div><!-- /.center -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -533,15 +535,15 @@
                     <!-- TWITTER -->
                     <div class="block-content has-ears background-twitter twitter">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Furry <span class="light">Project</span></h2>
+                            <h2 class="block-title">饭<span class="light">事</span></h2>
 
                             <div class="block-large-text has-arrow make-it-dinosauric">
                                 <div class="col-sm-8">
-                                    slogan here 
+                                 	   主题 
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <a href="#" class="btn btn-primary btn-white btn-large">Follow Us</a>
+                                    <a href="#" class="btn btn-primary btn-white btn-large">关注我们</a>
                                 </div>
                             </div><!-- /.block-large-text -->
                         </div><!-- /.block-content-inner -->
@@ -550,19 +552,19 @@
                     <!-- PORTFOLIO -->
                     <div class="block-content background-white fullwidth">
                         <div class="block-content-inner reset-block-padding">
-                            <h2 class="block-title">Our <span class="light">Portfolio</span></h2>
+                            <h2 class="block-title">我们的 <span class="light">作品集</span></h2>
 
                             <div class="block-large-text has-arrow">
                                 <p>
-                                    protifio contents
+                                   		 作品集内容
                                 </p>
                             </div><!-- /.block-large-text -->
 
                             <ul class="portfolio-filter">
-                                <li class="selected"><a href="#" data-filter="*"><span>All</span></a></li>
-                                <li><a href="#" data-filter=".webdesign"><span>Group1</span></a></li>
-                                <li><a href="#" data-filter=".template"><span>Group2</span></a></li>
-                                <li><a href="#" data-filter=".wordpress"><span>Group3</span></a></li>
+                                <li class="selected"><a href="#" data-filter="*"><span>所有的</span></a></li>
+                                <li><a href="#" data-filter=".webdesign"><span>类型1</span></a></li>
+                                <li><a href="#" data-filter=".template"><span>类型2</span></a></li>
+                                <li><a href="#" data-filter=".wordpress"><span>类型3</span></a></li>
                             </ul>
 
                             <div class="portfolio-items row">
@@ -716,11 +718,11 @@
                     <!-- RECENT BLOGPOSTS -->
                     <div class="block-content background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Milestone <span class="light">Contents</span></h2>
+                            <h2 class="block-title">里程 <span class="light">碑</span></h2>
 
                             <div class="block-large-text has-arrow mb50">
                                 <p>
-                                   Milestone
+                                   		里程碑
                                 </p>
                             </div><!-- /.block-text-large -->
 
@@ -741,15 +743,15 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                         <div class="blog-grid-item-content-inner xs-no-square">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">More Contents 1</a></h2>
+                                                <h2><a href="#">更多内容1</a></h2>
 
                                                 <p>
-                                                   More Contents 1
+                                                		  更多内容1
                                                 </p>
 
                                                 <div class="blog-grid-item-meta align-bottom row">
                                                     <div class="blog-grid-item-meta-date col-xs-6 col-sm-6 col-md-6">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号 6月
                                                     </div><!-- /.blog-grid-item-meta-date -->
 
                                                     <div class="blog-grid-item-meta-comments col-xs-6 col-sm-6 col-md-6">
@@ -765,15 +767,15 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
                                         <div class="blog-grid-item-content-inner xs-no-square">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">More Contents 2</a></h2>
+                                                <h2><a href="#">更多内容2</a></h2>
 
                                                 <p>
-                                                    More Contents 2
+                                                    		更多内容2
                                                 </p>
 
                                                 <div class="blog-grid-item-meta align-bottom row">
                                                     <div class="blog-grid-item-meta-date col-xs-6 col-sm-6">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号  一月
                                                     </div><!-- /.blog-grid-item-meta-date -->
 
                                                     <div class="blog-grid-item-meta-comments col-xs-6 col-md-6">
@@ -811,15 +813,15 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-right xs-no-arrow sm-no-arrow col-xs-12 col-sm-6 col-md-6 pull-left sm-float-right">
                                         <div class="blog-grid-item-content-inner xs-no-square">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">More Contents 3</a></h2>
+                                                <h2><a href="#">更多内容3</a></h2>
 
                                                 <p>
-                                                    More Contents 3
+                                                  		  更多内容3
                                                 </p>
 
                                                 <div class="blog-grid-item-meta align-bottom row">
                                                     <div class="blog-grid-item-meta-date col-xs-6 col-sm-6">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号 一月
                                                     </div><!-- /.blog-grid-item-meta-date -->
 
                                                     <div class="blog-grid-item-meta-comments col-xs-6 col-md-6">
@@ -835,15 +837,15 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                         <div class="blog-grid-item-content-inner xs-no-square">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">More Contents 4</a></h2>
+                                                <h2><a href="#">更多内容4</a></h2>
 
                                                 <p>
-                                                    More Contents 4
+                                                    		更多内容4
                                                 </p>
 
                                                 <div class="blog-grid-item-meta align-bottom row">
                                                     <div class="blog-grid-item-meta-date col-xs-6 col-sm-6 col-md-6">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号 一月
                                                     </div><!-- /.blog-grid-item-meta-date -->
 
                                                     <div class="blog-grid-item-meta-comments col-xs-6 col-sm-6 col-md-6">
@@ -869,7 +871,7 @@
                             </div><!-- /.blog-grid -->
 
                             <div class="xs-center">
-                                <a href="#" class="btn btn-primary btn-large">More Details</a>
+                                <a href="#" class="btn btn-primary btn-large">查看更多</a>
                             </div>
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -894,11 +896,11 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-12 col-md-6">
                                         <div class="blog-grid-item-content-inner">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">News</a></h2>
+                                                <h2><a href="#">新闻</a></h2>
 
                                                 <div class="blog-grid-item-meta">
                                                     <span class="blog-grid-item-meta-date badge">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号 一月
                                                     </span><!-- /.blog-grid-item-meta-date -->
 
                                                     <span class="blog-grid-item-meta-comments badge">
@@ -911,10 +913,10 @@
                                                 </div><!-- /.blog-grid-item-meta -->                                            
 
                                                 <p>
-                                                   News 1 here
+                                                  		新闻1
                                                 </p>
 
-                                                <a href="#" class="btn btn-primary">Read More</a>
+                                                <a href="#" class="btn btn-primary">了解更多</a>
                                             </div><!-- /.blog-grid-item-content-padding -->
                                         </div><!-- /.blog-grid-item-content-inner -->
                                     </div><!-- /.blog-grid-item-content -->
@@ -938,11 +940,11 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-12 col-md-6 pull-left sm-no-float">
                                         <div class="blog-grid-item-content-inner">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">News</a></h2>
+                                                <h2><a href="#">新闻</a></h2>
 
                                                 <div class="blog-grid-item-meta">
                                                     <span class="blog-grid-item-meta-date badge">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号 一月
                                                     </span><!-- /.blog-grid-item-meta-date -->
 
                                                     <span class="blog-grid-item-meta-comments badge">
@@ -955,10 +957,10 @@
                                                 </div><!-- /.blog-grid-item-meta -->                                            
 
                                                 <p>
-                                                		News 2 here    
+                                                		新闻2    
                                                 </p>
                                                 
-                                                <a href="#" class="btn btn-primary">Read More</a>
+                                                <a href="#" class="btn btn-primary">了解更多</a>
                                             </div><!-- /.blog-grid-item-content-padding -->
                                         </div><!-- /.blog-grid-item-content-inner -->
                                     </div><!-- /.blog-grid-item-content -->
@@ -982,11 +984,11 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-12 col-md-6">
                                         <div class="blog-grid-item-content-inner">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">News </a></h2>
+                                                <h2><a href="#">新闻 </a></h2>
 
                                                 <div class="blog-grid-item-meta">
                                                     <span class="blog-grid-item-meta-date badge">
-                                                        <i class="fa fa-calendar"></i> 10 Jan
+                                                        <i class="fa fa-calendar"></i> 10号 一月
                                                     </span><!-- /.blog-grid-item-meta-date -->
 
                                                     <span class="blog-grid-item-meta-comments badge">
@@ -999,10 +1001,10 @@
                                                 </div><!-- /.blog-grid-item-meta -->                                            
 
                                                 <p>
-                                                     News 3 here
+                                                    	 新闻3
                                                 </p>
 
-                                                <a href="#" class="btn btn-primary">Read More</a>
+                                                <a href="#" class="btn btn-primary">了解更多</a>
                                             </div><!-- /.blog-grid-item-content-padding -->
                                         </div><!-- /.blog-grid-item-content-inner -->
                                     </div><!-- /.blog-grid-item-content -->
@@ -1014,7 +1016,7 @@
                     <!-- LOAD MORE FOR BLOG-->
                     <div class="block-content background-twitter has-ears small-padding">
                         <div class="block-content-inner center">
-                            <a href="#" class="btn btn-large btn-white">Load More</a>
+                            <a href="#" class="btn btn-large btn-white">更多</a>
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
@@ -1023,60 +1025,60 @@
                         <div class="block-content-inner reset-block-padding">
                             <div class="row">
                                 <div class="widget col-sm-4">
-                                    <h2 class="block-subtitle">Data  <span class="light"> 1</span></h2>
+                                    <h2 class="block-subtitle">数据<span class="light"> 1</span></h2>
 
                                     <div class="list-group large-spacing">
                                         <a href="#" class="list-group-item">
-                                            <p class="list-group-item-text">Data 1</p>
+                                            <p class="list-group-item-text">数据 1</p>
                                         </a>
 
                                         <a href="#" class="list-group-item">
-                                            <p class="list-group-item-text">Data 2</p>
+                                            <p class="list-group-item-text">数据 2</p>
                                         </a>
 
                                         <a href="#" class="list-group-item">
-                                            <p class="list-group-item-text">Data 3</p>
+                                            <p class="list-group-item-text">数据 3</p>
                                         </a>                                    
                                     </div>                                
                                 </div><!-- /.widget -->
 
                                 <div class="widget col-sm-4">
-                                    <h2 class="block-subtitle">Categories</h2>
+                                    <h2 class="block-subtitle">分类</h2>
 
                                     <ul class="list-group">
                                         <li class="list-group-item">
-                                            <span class="badge">357</span> <a href="#">Item 1</a>
+                                            <span class="badge">357</span> <a href="#">分类 1</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">273</span> <a href="#">Item 2</a>
+                                            <span class="badge">273</span> <a href="#">分类 2</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">126</span> <a href="#">Item 3</a>
+                                            <span class="badge">126</span> <a href="#">分类 3</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">82</span> <a href="#">Item 4</a>
+                                            <span class="badge">82</span> <a href="#">分类 4</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">50</span> <a href="#">Item 5</a>
+                                            <span class="badge">50</span> <a href="#">分类 5</a>
                                         </li>
                                         <li class="list-group-item">
-                                            <span class="badge">12</span> <a href="#">Item 6</a>
+                                            <span class="badge">12</span> <a href="#">分类 6</a>
                                         </li>
                                     </ul>
                                 </div><!-- /.widget -->                        
 
                                 <div class="widget col-sm-4">
-                                    <h2 class="block-subtitle">Tags</h2>
+                                    <h2 class="block-subtitle">标签</h2>
 
                                     <div class="tags">
-                                        <a href="#" class="btn btn-white">Tag 1</a>
-                                        <a href="#" class="btn btn-white">Tag 2</a>
-                                        <a href="#" class="btn btn-white">Tag 3</a>
-                                        <a href="#" class="btn btn-white">Tag 4</a>
-                                        <a href="#" class="btn btn-white">Tag 5</a>
-                                        <a href="#" class="btn btn-white">Tag 6</a>
-                                        <a href="#" class="btn btn-white">Tag 7</a>
-                                        <a href="#" class="btn btn-white">Tag 8</a>
+                                        <a href="#" class="btn btn-white">标签 1</a>
+                                        <a href="#" class="btn btn-white">标签 2</a>
+                                        <a href="#" class="btn btn-white">标签 3</a>
+                                        <a href="#" class="btn btn-white">标签 4</a>
+                                        <a href="#" class="btn btn-white">标签 5</a>
+                                        <a href="#" class="btn btn-white">标签 6</a>
+                                        <a href="#" class="btn btn-white">标签 7</a>
+                                        <a href="#" class="btn btn-white">标签 8</a>
                                     </div><!-- /.tags -->
                                 </div><!-- /.widget -->                        
                             </div><!-- /.row -->
@@ -1089,12 +1091,12 @@
                             <form method="post" action="?" class="row">
                                 <div class="col-xs-12 xs-mb30 col-sm-8 col-md-9">
                                     <div class="form-group no-margin-bottom">
-                                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your E-mail Address">
+                                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="您的电子邮箱地址">
                                     </div><!-- /.form-group -->
                                 </div><!-- /.col-sm-9 -->
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <button class="btn btn-large btn-primary btn-block">Subscribe</button>
+                                    <button class="btn btn-large btn-primary btn-block">订阅</button>
                                 </div><!-- /.col-sm-3 -->
                             </form>
                         </div><!-- /.block-content-inner -->
@@ -1107,14 +1109,14 @@
                                 <div class="col-xs-12 xs-mb30 col-sm-8 col-md-9">
                                     <div class="block-large-text has-arrow">
                                         <p class="no-margin-bottom">
-                                           More details
+                                          	 更多
                                         </p>
 
                                     </div><!-- /.block-large-text -->
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -1145,33 +1147,33 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; Furry Project</a>
+                                   	 版权所有 &copy; 满度科技有限公司
                                 </p>
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
-                                            <a href="index.jsp">Home</a>                                        
+                                            <a href="index_cn.jsp">主页</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about_cn.jsp">关于我们</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio_cn.jsp">作品集</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog_cn.jsp">博客</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
+                                            <a href="contact_cn.jsp">联系我们</a>
                                         </li>   
                                         <li>
-                                            <a href="private.jsp">Private Policy</a>
+                                            <a href="private_cn.jsp">隐私条款</a>
                                         </li>   
                                                                                                                                   
                                     </ul>

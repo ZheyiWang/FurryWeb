@@ -45,9 +45,8 @@
                         <li><a href="index.jsp">Home</a></li>
                         <li><a href="about.jsp">About Us</a></li>                        
                         <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li class="active"><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li>
-                        <li><a href="details.jsp">中文</a></li>                       
+                        <li class="active"><a href="jsp.html">Blog</a></li>
+                        <li><a href="contact.jsp">Contact Us</a></li>                        
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -72,7 +71,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">可能不需要，暂时留一个接口</h1>
+                        <h1 class="header-title-main">Detail</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">

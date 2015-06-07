@@ -17,7 +17,7 @@
 
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>About Us</title>
+    <title>关于我们</title>
 </head>
 
 <body>
@@ -42,12 +42,12 @@
 
                 <nav class="header-nav navbar-collapse collapse" role="navigation">
                     <ul class="nav nav-pills">
-                        <li><a href="index.jsp">Home</a></li>
-                        <li class="active"><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li>  
-                        <li><a href="about_cn.jsp">中文</a></li>                    
+                        <li><a href="index_cn.jsp">主页</a></li>
+                        <li class="active"><a href="about_cn.jsp">关于我们</a></li>                        
+                        <li><a href="portfolio_cn.jsp">作品集</a></li>
+                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="contact_cn.jsp">联系我</a></li>
+                        <li><a href="about.jsp">English</a></li>                      
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -72,13 +72,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">About Us</h1>
+                        <h1 class="header-title-main">关于我们</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
-                                <li><a href="index.jsp">Home</a></li>
-                                <li><a href="pricing.jsp">Pricing</a></li>                        
-                                <li><a href="contact.jsp">Contact Us</a></li>                    
+                                <li><a href="index_cn.jsp">主页</a></li>
+                                <li><a href="pricing_cn.jsp">价格</a></li>                        
+                                <li><a href="contact_cn.jsp">联系我们</a></li>                    
                             </ul>
                         </div><!-- /.header-title-nav -->
                     </div><!-- /.col-->
@@ -91,13 +91,13 @@
         <div class="main">
             <div class="main-inner">
                 <div class="container">
-                    <!-- PORTFOLIO -->
+                     <!-- PORTFOLIO -->
                     <div class="block-content background-gray no-margin-bottom no-padding">
                         <div class="block-content-inner">
                             <div class="portfolio-grid">
                                 <div class="row">
                                     <div class="portfolio-grid-inner">
-                                         <div class="portfolio-grid-inner-wrapper col-sm-12 col-md-6">
+                                        <div class="portfolio-grid-inner-wrapper col-sm-12 col-md-6">
                                             <div class="portfolio-grid-item portfolio-grid-item-icon background-magenta col-sm-6 col-md-6 hidden-xs">
                                                 <a href="#" class="portfolio-grid-item-inner" data-animation="shake">
                                                     <i class="fa fa-desktop"></i>
@@ -107,11 +107,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 1</a></h2>
+                                                        <h2><a href="#">介绍 1</a></h2>
 
-                                                        <p>Introduction 1 contents</p>
+                                                        <p>介绍 1 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -121,11 +121,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 2</a></h2>
+                                                        <h2><a href="#">介绍 2</a></h2>
 
-                                                        <p>Introduction 2 contents</p>
+                                                        <p>介绍 2 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -151,11 +151,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-left sm-float-right">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 3</a></h2>
+                                                        <h2><a href="#">介绍 3</a></h2>
 
-                                                        <p>Indroduction 3 contents</p>
+                                                        <p>介绍 3 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -165,11 +165,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 4</a></h2>
+                                                        <h2><a href="#">介绍 4</a></h2>
 
-                                                        <p>Indroduction 4 contents</p>
+                                                        <p>介绍 4 内容</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -186,16 +186,16 @@
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
-                   <!-- ABOUT OUR COMPANY -->
+                  <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">About Our <span class="light">Company</span></h2>
+                            <h2 class="block-title">关于 <span class="light">我们公司</span></h2>
 
                             <div class="has-arrow block-large-text">
                                 <p>
-                                    Company introduction puts here
+                                    	公司介绍
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">Read More</a>
+                                <a href="#" class="btn btn-primary btn-large">了解更多</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -203,11 +203,11 @@
                     <!-- OUR CLIENTS -->
                     <div class="block-content background-white no-margin-bottom fullwidth">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Our <span class="light">Clients</span></h2>
+                            <h2 class="block-title">我们的 <span class="light">客户</span></h2>
 
                             <div class="has-arrow block-large-text mb50">
                                 <p>
-                                   Client puts here
+                                   	客户信息
                                 </p>
                             </div><!-- /.block-large-text -->
 
@@ -237,7 +237,7 @@
                                 </div><!-- /.partner-item -->                                                                
                             </div>
                         </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content --
+                    </div><!-- /.block-content -->
 
                     <!-- CAROUSEL -->
                     <div class="block-content background-primary-medium no-margin fullwidth bootstrap-carousel">
@@ -247,14 +247,14 @@
                                 <div class="item active">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-7 col-md-5">
-                                            <h2 class="block-title">Production <span class="light">Production 1</span></h2>
+                                            <h2 class="block-title">产品 <span class="light">介绍1</span></h2>
 
                                             <div class="block-large-text has-arrow">
                                                 <p>
-                                                    Production Production 1 contents
+                                                   		产品介绍1
                                                 </p>
 
-                                                <a href="#" class="btn btn-white btn-large">View Detals</a>
+                                                <a href="#" class="btn btn-white btn-large">查看详情</a>
                                             </div><!-- /.block-large-text -->
                                         </div>
 
@@ -271,11 +271,11 @@
                                         </div>
 
                                         <div class="col-xs-12 col-sm-7 col-md-7">
-                                            <h2 class="block-title">Production <span class="light">Production 2</span></h2>
+                                            <h2 class="block-title">产品 <span class="light">介绍2</span></h2>
 
                                             <div class="block-large-text has-arrow">
                                                 <p>
-                                                   Production Production 2 contents
+                                                 		 产品介绍2
                                                 </p>
                                             </div><!-- /.block-large-text -->
                                         </div>
@@ -296,11 +296,11 @@
                     <!-- CREATIVE TEAM -->
                     <div class="block-content background-white no-margin-bottom">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Creative <span class="light">Team</span></h2>
+                            <h2 class="block-title">我们的 <span class="light">团队</span></h2>
 
                             <div class="block-large-text has-arrow">
                                 <p>
-                                    Team Indroduction members:
+                                    		团队信息
                                 </p>
                             </div><!-- /.block-large-text -->
 
@@ -323,11 +323,11 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 1</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 1</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  	  简介
                                                 </p>
 
                                                 <ul class="social">
@@ -358,11 +358,11 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-left">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 2</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 2</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                     Briefly indroduction
+                                                  		  简介
                                                 </p>
 
                                                 <ul class="social">
@@ -379,11 +379,11 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-right">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 3</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 3</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  			  简介
                                                 </p>
 
                                                 <ul class="social">
@@ -414,11 +414,11 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 4</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">成员 4</a></h2>
+                                                <h3>位置</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  		 简介
                                                 </p>
 
                                                 <ul class="social">
@@ -449,7 +449,7 @@
                             </div><!-- /.reset-block-padding -->
 
                             <div class="center">
-                                <a href="#" class="btn btn-primary btn-large">Check Details</a>
+                                <a href="#" class="btn btn-primary btn-large">查看详情</a>
                             </div><!-- /.center -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -457,15 +457,15 @@
                     <!-- TWITTER -->
                     <div class="block-content has-ears background-twitter twitter">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Furry <span class="light">Project</span></h2>
+                            <h2 class="block-title">饭<span class="light">事</span></h2>
 
                             <div class="block-large-text has-arrow make-it-dinosauric">
                                 <div class="col-sm-8">
-                                    slogan here 
+                                 	   主题 
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <a href="#" class="btn btn-primary btn-white btn-large">Follow Us</a>
+                                    <a href="#" class="btn btn-primary btn-white btn-large">关注我们</a>
                                 </div>
                             </div><!-- /.block-large-text -->
                         </div><!-- /.block-content-inner -->
@@ -479,13 +479,13 @@
                                 <div class="col-xs-12 xs-mb30 col-sm-8 col-md-9">
                                     <div class="block-large-text has-arrow">
                                         <p class="no-margin-bottom">
-                                           More details
+                                         		  更多
                                         </p>
                                     </div><!-- /.block-large-text -->
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -516,33 +516,33 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; 2015.Company name All rights reserved.
+                                    	 版权所有 &copy; 满度科技有限公司
                                 </p>
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
-                                            <a href="index.jsp">Home</a>                                        
+                                            <a href="index_cn.jsp">主页</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about_cn.jsp">关于我们</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio_cn.jsp">作品集</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog_cn.jsp">博客</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact_cn.jsp">联系我们</a>
+                                        </li>   
                                         <li>
-                                            <a href="private.jsp">Private Policy</a>
+                                            <a href="private_cn.jsp">隐私条款</a>
                                         </li>                                                                                             
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->

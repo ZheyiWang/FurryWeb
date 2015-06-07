@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/gosloo.css" media="screen, projection">
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>Portfolio</title>
+    <title>作品集</title>
 </head>
 
 <body>
@@ -43,12 +43,12 @@
 
                 <nav class="header-nav navbar-collapse collapse" role="navigation">
                     <ul class="nav nav-pills">
-                        <li><a href="index.jsp">Home</a></li>
-                        <li><a href="about.jsp">About Us</a></li>                        
-                        <li class="active"><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li> 
-                        <li><a href="portfolio_cn.jsp">中文</a></li>                       
+                        <li><a href="index_cn.jsp">主页</a></li>
+                        <li><a href="about_cn.jsp">关于我们</a></li>                        
+                        <li  class="active"><a href="portfolio_cn.jsp">作品集</a></li>
+                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="contact_cn.jsp">联系我们</a></li> 
+                        <li><a href="portfolio.jsp">English</a></li>                          
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -73,13 +73,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">Our Portfolio</h1>
+                        <h1 class="header-title-main">我们的作品集</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
-                                <li><a href="index.jsp">Home</a></li>
-                                <li><a href="about.jsp">About Us</a></li>                        
-                                <li><a href="contact.jsp">Contact Us</a></li>                        
+                                <li><a href="index_cn.jsp">主页</a></li>
+                                <li><a href="about_cn.jsp">关于我们</a></li>                        
+                                <li><a href="contact_cn.jsp">联系我们</a></li>                        
                             </ul>
                         </div>
                     </div><!-- /.col-->
@@ -247,7 +247,7 @@
                     <!-- LOAD MORE FOR BLOG -->
                     <div class="block-content background-twitter has-ears small-padding">
                         <div class="block-content-inner center">
-                            <a href="#" class="btn btn-large btn-white">Load More</a>
+                            <a href="#" class="btn btn-large btn-white">更多</a>
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->                            
 
@@ -258,14 +258,14 @@
                                 <div class="col-xs-12 xs-mb30 col-sm-8 col-md-9">
                                     <div class="block-large-text has-arrow">
                                         <p class="no-margin-bottom">
-                                            More Details
+                                          		 更多
                                         </p>
 
                                     </div><!-- /.block-large-text -->
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -296,34 +296,34 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; 2015.Company name All rights reserved.
+                                   	 版权所有 &copy; 满度科技有限公司
                                 </p>
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
-                                            <a href="index.jsp">Home</a>                                        
+                                            <a href="index_cn.jsp">主页</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about_cn.jsp">关于我们</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio_cn.jsp">作品集</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog_cn.jsp">博客</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact_cn.jsp">联系我们</a>
+                                        </li>   
                                         <li>
-                                            <a href="private.jsp">Private Policy</a>
-                                        </li>                                                                                                                                     
+                                            <a href="private_cn.jsp">隐私条款</a>
+                                        </li>                                                                                                                                       
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->
