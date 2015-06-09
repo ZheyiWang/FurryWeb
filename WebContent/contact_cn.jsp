@@ -209,7 +209,10 @@
                                         </li>   
                                         <li>
                                             <a href="private_cn.jsp">隐私条款</a>
-                                        </li>                                                                                                                                         
+                                        </li> 
+                                         <li>
+                                            <a href="terms_cn.jsp">服务协议</a>
+                                        </li>                                                                                                                                             
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

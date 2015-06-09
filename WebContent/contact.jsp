@@ -182,7 +182,7 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; 2015.Company name All rights reserved.
+                                    Copyright &copy; Mandoo Ltd. All rights reserved.
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
@@ -205,9 +205,12 @@
 
                                         <li>
                                             <a href="contact.jsp">Contact us</a>
-                                        </li>
+                                        </li> 
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
+                                        </li>  
+                                        <li>
+                                           <a href="terms.jsp">Terms of Services</a>
                                         </li>                                                                                                                                      
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->

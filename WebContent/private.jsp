@@ -47,7 +47,7 @@
                         <li><a href="portfolio.jsp">Portfolio</a></li>
                         <li><a href="blog.jsp">Blog</a></li>
                         <li class="active"><a href="contact.jsp">Contact Us</a></li>  
-                        <li><a href="private_cn.jsp">中文</a></li>                       
+                        <li><a href="terms_cn.jsp">中文</a></li>                       
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -102,7 +102,7 @@
                                    Last Updated: June 7, 2015
                                    <br>
                                    <br>
-                                   Mandoo, Inc. (Furry Project) respects the privacy of its users and has developed this Privacy 
+                                   Mandoo, Inc. (Dinnary) respects the privacy of its users and has developed this Privacy 
                                    Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes 
                                    the information we collect, how that information may be used, with whom it may be shared, and 
                                    your choices about such uses and disclosures. We encourage you to read this Privacy Policy 
@@ -302,7 +302,7 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; 2015.Company name All rights reserved.
+                                    Copyright &copy; Mandoo Ltd. All rights reserved.
                                 </div><!-- /.copyright -->
 
                                 <div class="footer-bottom-nav">
@@ -325,9 +325,12 @@
 
                                         <li>
                                             <a href="contact.jsp">Contact us</a>
-                                        </li>
-                                         <li>
+                                        </li> 
+                                        <li>
                                             <a href="private.jsp">Private Policy</a>
+                                        </li>  
+                                        <li>
+                                            <a href="terms.jsp">Terms of Services</a>
                                         </li>                                                                                                                                     
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->

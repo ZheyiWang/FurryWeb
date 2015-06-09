@@ -303,7 +303,7 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                     <p>
-                                        Copyright &copy; 2015.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a>
+                                        Copyright &copy; Mandoo Ltd. All rights reserved.
                                     </p>
                                 </div><!-- /.copyright -->
 
@@ -330,7 +330,10 @@
                                         </li> 
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>                                                                                                                                     
+                                        </li>  
+                                        <li>
+                                            <a href="terms.jsp">Terms of Services</a>
+                                        </li>                                                                                                                                   
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

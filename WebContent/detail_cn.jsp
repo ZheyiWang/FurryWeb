@@ -385,27 +385,30 @@
                                 <div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
-                                            <a href="index.jsp">Home</a>                                        
+                                            <a href="index_cn.jsp">主页</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about_cn.jsp">关于我们</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio_cn.jsp">作品集</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog_cn.jsp">博客</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li>  
+                                            <a href="contact_cn.jsp">联系我们</a>
+                                        </li>   
                                         <li>
-                                            <a href="private.jsp">Private Policy</a>
-                                        </li>                                                                                                                                    
+                                            <a href="private_cn.jsp">隐私条款</a>
+                                        </li> 
+                                         <li>
+                                            <a href="terms_cn.jsp">服务协议</a>
+                                        </li>                                                                                                                                       
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

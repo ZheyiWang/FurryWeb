@@ -1145,7 +1145,7 @@
                             <div class="col-sm-12">
                                 <div class="footer-bottom-copyright">
                                 <p>
-                                    Copyright &copy; Furry Project</a>
+                                    Copyright &copy; Mandoo Ltd. All rights reserved.
                                 </p>
                                 </div><!-- /.copyright -->
 
@@ -1169,10 +1169,13 @@
 
                                         <li>
                                             <a href="contact.jsp">Contact us</a>
-                                        </li>   
+                                        </li> 
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>   
+                                        </li>  
+                                        <li>
+                                            <a href="terms.jsp">Terms of Services</a>
+                                        </li> 
                                                                                                                                   
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->

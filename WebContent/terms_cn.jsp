@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/gosloo.css" media="screen, projection">
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>隐私条款</title>
+    <title>服务条款</title>
 </head>
 
 <body>
@@ -47,7 +47,7 @@
                         <li><a href="portfolio_cn.jsp">作品集</a></li>
                         <li><a href="blog_cn.jsp">博客</a></li>
                         <li><a href="contact_cn.jsp">联系我们</a></li> 
-                        <li><a href="private.jsp">English</a></li>                         
+                        <li><a href="terms.jsp">English</a></li>                         
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -72,7 +72,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">隐私条款</h1>
+                        <h1 class="header-title-main">服务条款</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
@@ -95,11 +95,11 @@
                     <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">隐私 <span class="light">条款</span></h2>
+                            <h2 class="block-title">服务 <span class="light">条款</span></h2>
 
-                             <div class="has-arrow block-large-text">
+                            <div class="has-arrow block-large-text">
                                 <p>                                   
-                                  	 最后更新: 六月 7号, 2015年   
+                                  	 最后更新: 六月 7号, 2015年    <b>注：隐私条款跟服务协议具体还需要分拆，我把“请吃饭”的条款都改写了一部分 ，稍后我多查几家以后再完善</b>
                                    <br>
                                    <br>
 									本协议服务条款(以下简称“服务条款”)是由您与饭食服务提供商 就饭食所提供服务订立的相关权利义务规范，本服务条款对双方均具法律效力。
@@ -316,7 +316,7 @@
                                         </li> 
                                          <li>
                                             <a href="terms_cn.jsp">服务协议</a>
-                                        </li>                                                                                                                                         
+                                        </li>                                                                                                                                        
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->
