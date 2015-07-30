@@ -43,9 +43,9 @@
                     <ul class="nav nav-pills">
                         <li><a href="index.jsp">Home</a></li>
                         <li><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li class="active"><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li>
+                        <li><a href="portfolio.jsp">App Screenshot</a></li>
+                        <li class="active"><a href="blog.jsp">News</a></li>
+                        <li><a href="contact.jsp">Contacts</a></li>
                         <li><a href="blog_cn.jsp">中文</a></li>                        
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
@@ -197,7 +197,7 @@
                                                        contents
                                                     </p>
 
-                                                    <a href="detail.jsp" class="btn btn-primary">Read More</a>
+                                                    <a href="detail.jsp" class="btn btn-red">Read More</a>
                                                 </div><!-- /.blog-grid-item-content-padding -->
                                             </div><!-- /.blog-grid-item-content-inner -->
                                         </div><!-- /.blog-grid-item-content -->
@@ -243,7 +243,7 @@
                                                       contents
                                                     </p>
 
-                                                    <a href="detail.jsp" class="btn btn-primary">Read More</a>
+                                                    <a href="detail.jsp" class="btn btn-red">Read More</a>
                                                 </div><!-- /.blog-grid-item-content-padding -->
                                             </div><!-- /.blog-grid-item-content-inner -->
                                         </div><!-- /.blog-grid-item-content -->
@@ -307,33 +307,33 @@
                                     </p>
                                 </div><!-- /.copyright -->
 
-                                <div class="footer-bottom-nav">
+ 								<div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
                                             <a href="index.jsp">Home</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about.jsp">About us</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio.jsp">app Screenshot</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog.jsp">News</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact.jsp">Contacts</a>
+                                        </li>   
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>  
-                                        <li>
+                                        </li> 
+                                         <li>
                                             <a href="terms.jsp">Terms of Services</a>
-                                        </li>                                                                                                                                   
+                                        </li>                                                                                                                                    
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

@@ -33,10 +33,10 @@
                     <ul class="nav nav-pills">
                         <li class="active"><a href="index_cn.jsp">主页</a></li>
                         <li><a href="about_cn.jsp">关于我们</a></li>                        
-                        <li><a href="portfolio_cn.jsp">作品集</a></li>
-                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="portfolio_cn.jsp">app美图</a></li>
+                        <li><a href="blog_cn.jsp">新闻</a></li>
                         <li><a href="contact_cn.jsp">联系我们</a></li> 
-                        <li><a href="index_cn.jsp">English</a></li>                    
+                        <li><a href="index.jsp">English</a></li>                    
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -75,7 +75,7 @@
                                     data-width="765"
                                     data-height="911">
 
-                                    <img src="assets/img/tmp/slider/dude.png" alt="#">
+                                    <img src="assets/img/model2.png" alt="#">
                                 </div>
 
                                 <!-- TITLE -->
@@ -87,7 +87,7 @@
                                     data-width="248"
                                     data-height="209">
 
-                                    <h2 class="block-title white">饭 <span class="light">事</span></h2>
+                                    <h2 class="block-title red"><span class="red">饭事</span></h2>
                                 </div>                                   
 
                                 <!-- DESCRIPTION -->
@@ -99,15 +99,12 @@
                                     data-width="248"
                                     data-height="209">
 
-                                    <div class="block-large-text has-arrow white">
+                                    <div class="block-large-text-red">
                                         <p>
-                                          	 饭事介绍 <br>
-                                            	介绍 <br>
-                                            	 介绍 <br>
-                                           		 介绍
+                                          	 每顿饭都有自己的故事     	
                                         </p>
 
-                                        <a href="#" class="btn btn-large btn-white">了解更多</a>
+                                        <a href="#" class="btn btn-large btn-red">了解更多</a>
                                     </div><!-- /.block-large-text -->
                                 </div>                                
                             </li>
@@ -123,7 +120,7 @@
                                     data-width="765"
                                     data-height="911">
 
-                                    <img src="assets/img/tmp/slider/hand.png" alt="#">
+                                    <img src="assets/img/model1.png" alt="#">
                                 </div>
 
                                 <!-- TITLE -->
@@ -135,7 +132,7 @@
                                     data-width="248"
                                     data-height="209">
 
-                                    <h2 class="block-title white"> 饭 <span class="light"> 事</span></h2>
+                                    <h2 class="block-title red"><span class="red">饭事</span></h2>
                                 </div>                                   
 
                                 <!-- DESCRIPTION -->
@@ -147,15 +144,12 @@
                                     data-width="248"
                                     data-height="209">
 
-                                    <div class="block-large-text has-arrow white">
+                                    <div class="block-large-text-red">
                                         <p>
-  											 饭事介绍<br>
-                                          	  内容 <br>
-                                           	  内容 <br>
-                                            	内容
+ 											每顿饭都有自己的故事     	
                                         </p>
                                         
-                                        <a href="#" class="btn btn-large btn-white">了解更多</a>
+                                        <a href="#" class="btn btn-large btn-red">了解更多</a>
                                     </div><!-- /.block-large-text -->
                                 </div>                                
                             </li>                            
@@ -185,9 +179,9 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 1</a></h2>
+                                                        <h2><a href="#">饭事是什么</a></h2>
 
-                                                        <p>介绍 1 内容</p>
+                                                        <p>饭事是一款帮助陌生人找到饭友的app</p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -199,9 +193,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 2</a></h2>
+                                                        <h2><a href="#">饭事的特点</a></h2>
 
-                                                        <p>介绍 2 内容</p>
+                                                        <p>快速发现饭友<br/>
+                                                           	真实的平台
+                                                        </p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -229,9 +225,9 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-left sm-float-right">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 3</a></h2>
+                                                        <h2><a href="#">饭事的优点</a></h2>
 
-                                                        <p>介绍 3 内容</p>
+                                                        <p>饭事可以xxx</p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -243,9 +239,9 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 4</a></h2>
+                                                        <h2><a href="#">饭事的未来</a></h2>
 
-                                                        <p>介绍 4 内容</p>
+                                                        <p>商业模式介绍</p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -264,59 +260,6 @@
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
-                    <!-- ABOUT OUR COMPANY -->
-                    <div class="block-content has-ears background-white">
-                        <div class="block-content-inner">
-                            <h2 class="block-title">关于 <span class="light">我们公司</span></h2>
-
-                            <div class="has-arrow block-large-text">
-                                <p>
-                                    	公司介绍
-                                </p>
-                                <a href="#" class="btn btn-primary btn-large">了解更多</a>
-                            </div><!-- /.has-arrow -->
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->
-
-                    <!-- OUR CLIENTS -->
-                    <div class="block-content background-white no-margin-bottom fullwidth">
-                        <div class="block-content-inner">
-                            <h2 class="block-title">我们的 <span class="light">客户</span></h2>
-
-                            <div class="has-arrow block-large-text mb50">
-                                <p>
-                                   	客户信息
-                                </p>
-                            </div><!-- /.block-large-text -->
-
-                            <div class="partners-items no-effect row">
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/themeforest.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/photodune.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/graphicriver.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/codecanyon.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->                                                                
-                            </div>
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->
-
                     <!-- CAROUSEL -->
                     <div class="block-content background-primary-medium no-margin fullwidth bootstrap-carousel">
                         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -325,11 +268,19 @@
                                 <div class="item active">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-7 col-md-5">
-                                            <h2 class="block-title">产品 <span class="light">介绍1</span></h2>
+                                            <h2 class="block-title-white"><span class="light" style= "margin-left:40px">产品特色</span></h2>
 
-                                            <div class="block-large-text has-arrow">
+                                            <div class="block-large-text-white" style= "margin-left:40px">
                                                 <p>
-                                                   		产品介绍1
+                                                
+                                                		<br/>用户数量大
+                                                		<br/>真实的用户
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                   		
                                                 </p>
 
                                                 <a href="#" class="btn btn-white btn-large">查看详情</a>
@@ -337,7 +288,7 @@
                                         </div>
 
                                         <div class="col-sm-5 col-md-7 center hidden-xs">
-                                            <img src="assets/img/tmp/carousels/mobile.png" alt="#" class="img-responsive">
+                                            <img src="assets\img\product2.png" alt="#" class="img-responsive">
                                         </div>
                                     </div><!-- /.row -->
                                 </div><!-- /.item -->
@@ -345,15 +296,23 @@
                                 <div class="item">
                                     <div class="row">
                                         <div class="col-sm-5 col-md-5 center hidden-xs">
-                                            <img src="assets/img/tmp/carousels/woman.png" alt="#" class="img-responsive">
+                                            <img src="assets\img\product4.png" alt="#" class="img-responsive">
                                         </div>
 
                                         <div class="col-xs-12 col-sm-7 col-md-7">
-                                            <h2 class="block-title">产品 <span class="light">介绍2</span></h2>
+                                            <h2 class="block-title"><span class="light">产品特色</span></h2>
 
-                                            <div class="block-large-text has-arrow">
+                                            <div class="block-large-text">
                                                 <p>
-                                                 		 产品介绍2
+                                                 		                                                
+                                                		<br/>用地图找到附近饭友
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                   		
                                                 </p>
                                             </div><!-- /.block-large-text -->
                                         </div>
@@ -374,15 +333,14 @@
                     <!-- CREATIVE TEAM -->
                     <div class="block-content background-white no-margin-bottom">
                         <div class="block-content-inner">
-                            <h2 class="block-title">我们的 <span class="light">团队</span></h2>
+                            <h2 class="block-title"> <span class="red">我们的团队</span></h2>
 
-                            <div class="block-large-text has-arrow">
+                            <div class="block-large-text-red">
                                 <p>
                                     		团队信息
                                 </p>
                             </div><!-- /.block-large-text -->
 
-                            <div class="reset-block-padding mb100">
                                 <div class="team row">
                                     <div class="team-item col-sm-6 col-md-3 hidden-xs">
                                         <div class="team-item-inner">
@@ -392,7 +350,7 @@
                                                         <i class="fa fa-plus-circle"></i>
                                                     </span>
 
-                                                    <img src="assets/img/tmp/members/1.jpg" alt="#">
+                                                    <img src="assets/img/yunfan.jpg" alt="#">
                                                 </a>
                                             </div><!-- /.team-item-image -->                                
                                         </div><!-- /.team-item-inner -->
@@ -401,20 +359,13 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 1</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">张云帆</a></h2>
+                                                <h3>创始人</h3>
 
                                                 <p>
-                                                  	  简介
+                                                  	  饭事创始人，香港大学硕士毕业生，现在国泰航空从事xx工作。有多年软件开发经验。
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                            
+                                         
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -427,7 +378,7 @@
                                                         <i class="fa fa-plus-circle"></i>
                                                     </span>
                                                     
-                                                    <img src="assets/img/tmp/members/2.jpg" alt="#">
+                                                    <img src="assets/img/zheyi.jpg" alt="#">
                                                 </a>
                                             </div><!-- /.team-item-image -->                                
                                         </div><!-- /.team-item-inner -->
@@ -436,20 +387,13 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-left">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 2</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">汪哲逸</a></h2>
+                                                <h3>合伙人</h3>
 
                                                 <p>
-                                                  		  简介
+                                                  		  饭事合伙人，香港大学硕士毕业生，现在日本乐天从事互联网金融工作。有多年软件开发经验。
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                         
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -457,20 +401,13 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-right">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 3</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">虚位以待</a></h2>
+                                                <h3>职位</h3>
 
                                                 <p>
-                                                  			  简介
+                                                  			  
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                      
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -492,20 +429,13 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 4</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">虚位以待</a></h2>
+                                                <h3>职位</h3>
 
                                                 <p>
-                                                  		 简介
+                                                  		 
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                      
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -524,355 +454,6 @@
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
                                 </div><!-- /.row -->
-                            </div><!-- /.reset-block-padding -->
-
-                            <div class="center">
-                                <a href="#" class="btn btn-primary btn-large">查看详情</a>
-                            </div><!-- /.center -->
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->
-
-                    <!-- TWITTER -->
-                    <div class="block-content has-ears background-twitter twitter">
-                        <div class="block-content-inner">
-                            <h2 class="block-title">饭<span class="light">事</span></h2>
-
-                            <div class="block-large-text has-arrow make-it-dinosauric">
-                                <div class="col-sm-8">
-                                 	   主题 
-                                </div>
-
-                                <div class="col-sm-4">
-                                    <a href="#" class="btn btn-primary btn-white btn-large">关注我们</a>
-                                </div>
-                            </div><!-- /.block-large-text -->
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->
-
-                    <!-- PORTFOLIO -->
-                    <div class="block-content background-white fullwidth">
-                        <div class="block-content-inner reset-block-padding">
-                            <h2 class="block-title">我们的 <span class="light">作品集</span></h2>
-
-                            <div class="block-large-text has-arrow">
-                                <p>
-                                   		 作品集内容
-                                </p>
-                            </div><!-- /.block-large-text -->
-
-                            <ul class="portfolio-filter">
-                                <li class="selected"><a href="#" data-filter="*"><span>所有的</span></a></li>
-                                <li><a href="#" data-filter=".webdesign"><span>类型1</span></a></li>
-                                <li><a href="#" data-filter=".template"><span>类型2</span></a></li>
-                                <li><a href="#" data-filter=".wordpress"><span>类型3</span></a></li>
-                            </ul>
-
-                            <div class="portfolio-items row">
-                                <div class="portfolio-item col-xs-12 col-sm-3 webdesign">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/1-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->                
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 template">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/2-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->    
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 wordpress">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/3-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->    
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 webdesign">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/4-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->                                                                        
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 template">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/5-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->                
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 wordpress">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/6-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->    
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 webdesign">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/7-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->    
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 template">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/8-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->                                                                        
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 wordpress">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/9-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->                
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 webdesign">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/10-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->    
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 template">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/11-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->    
-
-                                <div class="portfolio-item col-xs-12 col-sm-3 wordpress">
-                                    <div class="portfolio-item-inner">
-                                        <a href="#" class="portfolio-target"> 
-                                            <span class="portfolio-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/12-small.jpg" alt="#" class="img-responsive">
-                                        </a>
-                                    </div><!-- /.portfolio-item-inner -->
-                                </div><!-- /.portfolio-item -->                 
-                            </div><!-- /.works-items -->                  
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->
-
-                    <!-- RECENT BLOGPOSTS -->
-                    <div class="block-content background-white">
-                        <div class="block-content-inner">
-                            <h2 class="block-title">里程 <span class="light">碑</span></h2>
-
-                            <div class="block-large-text has-arrow mb50">
-                                <p>
-                                   		里程碑
-                                </p>
-                            </div><!-- /.block-text-large -->
-
-                            <div class="blog-grid reset-block-padding row mb100">
-                                <div class="blog-grid-item col-xs-12 col-sm-12 col-md-6">
-                                    <div class="blog-grid-item-picture col-sm-6 col-md-6 hidden-xs">
-                                        <div class="blog-grid-item-picture-inner">
-                                            <a href="#" class="blog-grid-item-image-target">
-                                                <span class="blog-grid-item-image-target-hover">
-                                                    <i class="fa fa-plus-circle"></i>
-                                                </span><!-- /.blog-grid-item-image-target-hover -->
-
-                                                <img src="assets/img/tmp/portfolio/1-small.jpg" alt="#">
-                                            </a>
-                                        </div><!-- /.blog-grid-item-picture-inner -->
-                                    </div><!-- /.blog-grid-item-picture -->
-
-                                    <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
-                                        <div class="blog-grid-item-content-inner xs-no-square">
-                                            <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">更多内容1</a></h2>
-
-                                                <p>
-                                                		  更多内容1
-                                                </p>
-
-                                                <div class="blog-grid-item-meta align-bottom row">
-                                                    <div class="blog-grid-item-meta-date col-xs-6 col-sm-6 col-md-6">
-                                                        <i class="fa fa-calendar"></i> 10号 6月
-                                                    </div><!-- /.blog-grid-item-meta-date -->
-
-                                                    <div class="blog-grid-item-meta-comments col-xs-6 col-sm-6 col-md-6">
-                                                        <i class="fa fa-comments"></i> 365 
-                                                    </div><!-- /.blog-grid-item-meta-comments -->
-                                                </div><!-- /.blog-grid-item-meta -->                                            
-                                            </div><!-- /.blog-grid-item-content-padding -->
-                                        </div><!-- /.blog-grid-item-content-inner -->
-                                    </div><!-- /.blog-grid-item-content -->
-                                </div><!-- /.blog-grid-item -->
-
-                                <div class="blog-grid-item col-xs-12 col-sm-12 col-md-6">
-                                    <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
-                                        <div class="blog-grid-item-content-inner xs-no-square">
-                                            <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">更多内容2</a></h2>
-
-                                                <p>
-                                                    		更多内容2
-                                                </p>
-
-                                                <div class="blog-grid-item-meta align-bottom row">
-                                                    <div class="blog-grid-item-meta-date col-xs-6 col-sm-6">
-                                                        <i class="fa fa-calendar"></i> 10号  一月
-                                                    </div><!-- /.blog-grid-item-meta-date -->
-
-                                                    <div class="blog-grid-item-meta-comments col-xs-6 col-md-6">
-                                                        <i class="fa fa-comments"></i> 365 
-                                                    </div><!-- /.blog-grid-item-meta-comments -->
-                                                </div><!-- /.blog-grid-item-meta -->                                            
-                                            </div><!-- /.blog-grid-item-content-padding -->
-                                        </div><!-- /.blog-grid-item-content-inner -->
-                                    </div><!-- /.blog-grid-item-content -->
-
-                                    <div class="blog-grid-item-picture col-xs-12 col-sm-6 col-md-6 pull-left sm-float-right hidden-xs">
-                                        <a href="#" class="blog-grid-item-image-target">
-                                            <span class="blog-grid-item-image-target-hover">
-                                                <i class="fa fa-plus-circle"></i>
-                                            </span><!-- /.blog-grid-item-image-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/2-small.jpg" alt="#">
-                                        </a>
-                                    </div><!-- /.blog-grid-item-picture -->
-                                </div><!-- /.blog-grid-item -->
-
-                                <div class="blog-grid-item col-xs-12 col-sm-12 col-md-6">
-                                    <div class="blog-grid-item-picture col-xs-12 col-sm-6 col-md-6 pull-right sm-no-float sm-float-left hidden-xs">
-                                        <div class="blog-grid-item-picture-inner">
-                                            <a href="#" class="blog-grid-item-image-target">
-                                                <span class="blog-grid-item-image-target-hover">
-                                                    <i class="fa fa-plus-circle"></i>
-                                                </span><!-- /.blog-grid-item-image-target-hover -->
-
-                                                <img src="assets/img/tmp/portfolio/3-small.jpg" alt="#">
-                                            </a>
-                                        </div><!-- /.blog-grid-item-picture-inner -->
-                                    </div><!-- /.blog-grid-item-picture -->
-
-                                    <div class="blog-grid-item-content blog-grid-item-arrow-right xs-no-arrow sm-no-arrow col-xs-12 col-sm-6 col-md-6 pull-left sm-float-right">
-                                        <div class="blog-grid-item-content-inner xs-no-square">
-                                            <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">更多内容3</a></h2>
-
-                                                <p>
-                                                  		  更多内容3
-                                                </p>
-
-                                                <div class="blog-grid-item-meta align-bottom row">
-                                                    <div class="blog-grid-item-meta-date col-xs-6 col-sm-6">
-                                                        <i class="fa fa-calendar"></i> 10号 一月
-                                                    </div><!-- /.blog-grid-item-meta-date -->
-
-                                                    <div class="blog-grid-item-meta-comments col-xs-6 col-md-6">
-                                                        <i class="fa fa-comments"></i> 365 
-                                                    </div><!-- /.blog-grid-item-meta-comments -->
-                                                </div><!-- /.blog-grid-item-meta -->                                            
-                                            </div><!-- /.blog-grid-item-content-padding -->
-                                        </div><!-- /.blog-grid-item-content-inner -->
-                                    </div><!-- /.blog-grid-item-content -->                                    
-                                </div><!-- /.blog-grid-item -->
-
-                                <div class="blog-grid-item col-xs-12 col-sm-12 col-md-6">
-                                    <div class="blog-grid-item-content blog-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
-                                        <div class="blog-grid-item-content-inner xs-no-square">
-                                            <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">更多内容4</a></h2>
-
-                                                <p>
-                                                    		更多内容4
-                                                </p>
-
-                                                <div class="blog-grid-item-meta align-bottom row">
-                                                    <div class="blog-grid-item-meta-date col-xs-6 col-sm-6 col-md-6">
-                                                        <i class="fa fa-calendar"></i> 10号 一月
-                                                    </div><!-- /.blog-grid-item-meta-date -->
-
-                                                    <div class="blog-grid-item-meta-comments col-xs-6 col-sm-6 col-md-6">
-                                                        <i class="fa fa-comments"></i> 365 
-                                                    </div><!-- /.blog-grid-item-meta-comments -->
-                                                </div><!-- /.blog-grid-item-meta -->
-                                            </div><!-- /.blog-grid-item-content-padding -->
-                                        </div><!-- /.blog-grid-item-content-inner -->
-                                    </div><!-- /.blog-grid-item-content -->
-
-                                    <div class="blog-grid-item-picture col-sm-6 col-md-6 hidden-xs">
-                                        <div class="blog-grid-item-picture-inner">
-                                            <a href="#" class="blog-grid-item-image-target">
-                                                <span class="blog-grid-item-image-target-hover">
-                                                    <i class="fa fa-plus-circle"></i>
-                                                </span><!-- /.blog-grid-item-image-target-hover -->
-
-                                                <img src="assets/img/tmp/portfolio/4-small.jpg" alt="#">
-                                            </a>
-                                        </div><!-- /.blog-grid-item-picture-inner -->
-                                    </div><!-- /.blog-grid-item-picture -->
-                                </div><!-- /.blog-grid-item -->
-                            </div><!-- /.blog-grid -->
-
-                            <div class="xs-center">
-                                <a href="#" class="btn btn-primary btn-large">查看更多</a>
-                            </div>
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
@@ -896,7 +477,7 @@
                                     <div class="blog-grid-item-content blog-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-12 col-md-6">
                                         <div class="blog-grid-item-content-inner">
                                             <div class="blog-grid-item-content-padding">
-                                                <h2><a href="#">新闻</a></h2>
+                                                <h2><a href="#">饭事立项</a></h2>
 
                                                 <div class="blog-grid-item-meta">
                                                     <span class="blog-grid-item-meta-date badge">
@@ -916,7 +497,7 @@
                                                   		新闻1
                                                 </p>
 
-                                                <a href="#" class="btn btn-primary">了解更多</a>
+                                                <a href="#" class="btn btn-red">了解更多</a>
                                             </div><!-- /.blog-grid-item-content-padding -->
                                         </div><!-- /.blog-grid-item-content-inner -->
                                     </div><!-- /.blog-grid-item-content -->
@@ -960,7 +541,7 @@
                                                 		新闻2    
                                                 </p>
                                                 
-                                                <a href="#" class="btn btn-primary">了解更多</a>
+                                                <a href="#" class="btn btn-red">了解更多</a>
                                             </div><!-- /.blog-grid-item-content-padding -->
                                         </div><!-- /.blog-grid-item-content-inner -->
                                     </div><!-- /.blog-grid-item-content -->
@@ -1004,7 +585,7 @@
                                                     	 新闻3
                                                 </p>
 
-                                                <a href="#" class="btn btn-primary">了解更多</a>
+                                                <a href="#" class="btn btn-red">了解更多</a>
                                             </div><!-- /.blog-grid-item-content-padding -->
                                         </div><!-- /.blog-grid-item-content-inner -->
                                     </div><!-- /.blog-grid-item-content -->
@@ -1025,15 +606,17 @@
                         <div class="block-content-inner reset-block-padding">
                             <div class="row">
                                 <div class="widget col-sm-4">
-                                    <h2 class="block-subtitle">数据<span class="light"> 1</span></h2>
+                                    <h2 class="block-subtitle">数据</h2>
 
                                     <div class="list-group large-spacing">
                                         <a href="#" class="list-group-item">
-                                            <p class="list-group-item-text">数据 1</p>
+                                            <p class="list-group-item-text">注册用户<span style="float:right"> 1111111</span></p>
+                                            	
                                         </a>
 
                                         <a href="#" class="list-group-item">
-                                            <p class="list-group-item-text">数据 2</p>
+                                            <p class="list-group-item-text">每天活跃用户<span style="float:right"> 1111111</span>
+                                            </p>
                                         </a>
 
                                         <a href="#" class="list-group-item">
@@ -1096,7 +679,7 @@
                                 </div><!-- /.col-sm-9 -->
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <button class="btn btn-large btn-primary btn-block">订阅</button>
+                                    <button class="btn btn-large btn-red btn-block">索取更多资料</button>
                                 </div><!-- /.col-sm-3 -->
                             </form>
                         </div><!-- /.block-content-inner -->
@@ -1116,7 +699,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -1162,11 +745,11 @@
                                         </li>
 
                                         <li>
-                                            <a href="portfolio_cn.jsp">作品集</a>
+                                            <a href="portfolio_cn.jsp">app美图</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog_cn.jsp">博客</a>
+                                            <a href="blog_cn.jsp">新闻</a>
                                         </li>               
 
                                         <li>

@@ -17,7 +17,7 @@
 
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>博客</title>
+    <title>新闻</title>
 </head>
 
 <body>
@@ -43,8 +43,8 @@
                     <ul class="nav nav-pills">
                         <li><a href="index_cn.jsp">主页</a></li>
                         <li><a href="about_cn.jsp">关于我们</a></li>                        
-                        <li><a href="portfolio_cn.jsp">作品集</a></li>
-                        <li class="active"><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="portfolio_cn.jsp">app美图</a></li>
+                        <li class="active"><a href="blog_cn.jsp">新闻</a></li>
                         <li><a href="contact_cn.jsp">联系我们</a></li>
                         <li><a href="blog.jsp">English</a></li>                        
                     </ul><!-- /.nav -->
@@ -71,12 +71,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">博客</h1>
+                        <h1 class="header-title-main">新闻</h1>
 
                         <div class="header-title-search">
                             <form method="get" action="?" class="col-sm-3 pull-right">
                                 <div class="form-group has-feedback">
-                                    <input type="text" class="form-control input-sm input-transparent" placeholder="Search">
+                                    <input type="text" class="form-control input-sm input-transparent" placeholder="搜索">
                                     <span class="fa fa-search form-control-feedback input-transparent input-sm"></span>
                                 </div>
                             </form>
@@ -197,7 +197,7 @@
                                                      	  内容
                                                     </p>
 
-                                                    <a href="detail.jsp" class="btn btn-primary">了解更多</a>
+                                                    <a href="detail.jsp" class="btn btn-red">了解更多</a>
                                                 </div><!-- /.blog-grid-item-content-padding -->
                                             </div><!-- /.blog-grid-item-content-inner -->
                                         </div><!-- /.blog-grid-item-content -->
@@ -243,7 +243,7 @@
                                                     	  内容
                                                     </p>
 
-                                                    <a href="detail.jsp" class="btn btn-primary">了解更多</a>
+                                                    <a href="detail.jsp" class="btn btn-red">了解更多</a>
                                                 </div><!-- /.blog-grid-item-content-padding -->
                                             </div><!-- /.blog-grid-item-content-inner -->
                                         </div><!-- /.blog-grid-item-content -->
@@ -271,7 +271,7 @@
                                 </div><!-- /.col-sm-9 -->
 
                                 <div class="col-sm-4 col-md-3">
-                                    <button class="btn btn-large btn-primary btn-block">订阅</button>
+                                    <button class="btn btn-large btn-red btn-block">索取更多资料</button>
                                 </div><!-- /.col-sm-3 -->
                             </form>
                         </div><!-- /.block-content-inner -->
@@ -318,11 +318,11 @@
                                         </li>
 
                                         <li>
-                                            <a href="portfolio_cn.jsp">作品集</a>
+                                            <a href="portfolio_cn.jsp">app美图</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog_cn.jsp">博客</a>
+                                            <a href="blog_cn.jsp">新闻</a>
                                         </li>               
 
                                         <li>

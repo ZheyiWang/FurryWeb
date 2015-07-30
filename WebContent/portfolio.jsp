@@ -45,9 +45,9 @@
                     <ul class="nav nav-pills">
                         <li><a href="index.jsp">Home</a></li>
                         <li><a href="about.jsp">About Us</a></li>                        
-                        <li class="active"><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li> 
+                        <li class="active"><a href="portfolio.jsp">App Screenshot</a></li>
+                        <li><a href="blog.jsp">News</a></li>
+                        <li><a href="contact.jsp">Contacts</a></li> 
                         <li><a href="portfolio_cn.jsp">中文</a></li>                       
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
@@ -73,13 +73,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">Our Portfolio</h1>
+                        <h1 class="header-title-main">App Screenshot</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
                                 <li><a href="index.jsp">Home</a></li>
                                 <li><a href="about.jsp">About Us</a></li>                        
-                                <li><a href="contact.jsp">Contact Us</a></li>                        
+                                <li><a href="contact.jsp">Contacts</a></li>                        
                             </ul>
                         </div>
                     </div><!-- /.col-->
@@ -103,8 +103,7 @@
                                             <span class="portfolio-target-hover">
                                                 <i class="fa fa-plus-circle"></i>
                                             </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/1-small.jpg" alt="#" class="img-responsive">
+                                            <img src="assets/img/apppic1.png" alt="#" class="img-responsive">
                                         </a>
                                     </div><!-- /.portfolio-item-inner -->
                                 </div><!-- /.portfolio-item -->                
@@ -116,7 +115,7 @@
                                                 <i class="fa fa-plus-circle"></i>
                                             </span><!-- /.span-portfolio-target-hover -->
 
-                                            <img src="assets/img/tmp/portfolio/2-small.jpg" alt="#" class="img-responsive">
+                                            <img src="assets/img/apppic2.png" alt="#" class="img-responsive">
                                         </a>
                                     </div><!-- /.portfolio-item-inner -->
                                 </div><!-- /.portfolio-item -->    
@@ -152,7 +151,7 @@
                                                 <i class="fa fa-plus-circle"></i>
                                             </span><!-- /.span-portfolio-target-hover -->
 
-                                            <img src="assets/img/tmp/portfolio/5-small.jpg" alt="#" class="img-responsive">
+                                            <img src="assets/img/apppic3.png" alt="#" class="img-responsive">
                                         </a>
                                     </div><!-- /.portfolio-item-inner -->
                                 </div><!-- /.portfolio-item -->                
@@ -242,7 +241,7 @@
                                 </div><!-- /.portfolio-item -->                 
                             </div><!-- /.works-items -->                  
                         </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->                    
+                    </div><!-- /.block-content -->                     
 
                     <!-- LOAD MORE FOR BLOG -->
                     <div class="block-content background-twitter has-ears small-padding">
@@ -265,7 +264,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">More Details</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -300,31 +299,31 @@
                                 </p>
                                 </div><!-- /.copyright -->
 
-                                <div class="footer-bottom-nav">
+ 								<div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
                                             <a href="index.jsp">Home</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about.jsp">About us</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio.jsp">app Screenshot</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog.jsp">News</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact.jsp">Contacts</a>
+                                        </li>   
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>  
-                                        <li>
+                                        </li> 
+                                         <li>
                                             <a href="terms.jsp">Terms of Services</a>
                                         </li>                                                                                                                                     
                                     </ul>

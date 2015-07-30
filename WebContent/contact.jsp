@@ -44,10 +44,11 @@
                     <ul class="nav nav-pills">
                         <li><a href="index.jsp">Home</a></li>
                         <li><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li class="active"><a href="contact.jsp">Contact Us</a></li>
-                        <li><a href="contact_cn.jsp">中文</a></li>                          
+                        <li><a href="portfolio.jsp">App Screenshot</a></li>
+                        <li><a href="blog.jsp">News</a></li>
+                        <li class="active"><a href="contact.jsp">Contacts</a></li>
+                        <li><a href="contact_cn.jsp">中文</a></li> 
+                                                 
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
 
@@ -95,13 +96,17 @@
                     <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">About Our <span class="light">Company</span></h2>
+                            <h2 class="block-title"><span class="red">Contact Information</span></h2>
 
-                            <div class="has-arrow block-large-text">
-                                <p>
-                                    Company introduction puts here
+                            <div class="block-large-text">
+                                <p>	
+                                    	Tel:xxxx<br/>
+                                    	Post Code: xxx<br/>
+                                    	Address：香港xxxx<br/>
+                                    	Map location              	
+                                    	
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">Read More</a>
+                                <a href="#" class="btn btn-red btn-large">Read More</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -109,7 +114,7 @@
                     <!-- MESSAGE -->
                     <div class="block-content background-twitter has-ears">
                         <div class="block-content-inner">
-                            <h2 class="block-title white">Post a <span class="light">Message</span></h2>
+                            <h2 class="block-title white">Leave a message </h2>
 
                             <form method="post" action="?" class="reset-block-padding">
                                 <div class="row">
@@ -151,7 +156,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">More Details</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -192,26 +197,26 @@
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about.jsp">About us</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio.jsp">app Screenshot</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog.jsp">News</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact.jsp">Contacts</a>
+                                        </li>   
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>  
-                                        <li>
-                                           <a href="terms.jsp">Terms of Services</a>
-                                        </li>                                                                                                                                      
+                                        </li> 
+                                         <li>
+                                            <a href="terms.jsp">Terms of Services</a>
+                                        </li>                                                                                                                                       
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

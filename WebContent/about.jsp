@@ -44,9 +44,9 @@
                     <ul class="nav nav-pills">
                         <li><a href="index.jsp">Home</a></li>
                         <li class="active"><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li><a href="contact.jsp">Contact Us</a></li>  
+                        <li><a href="portfolio.jsp">App Screenshot</a></li>
+                        <li><a href="blog.jsp">News</a></li>
+                        <li><a href="contact.jsp">Contacts</a></li>  
                         <li><a href="about_cn.jsp">中文</a></li>                    
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
@@ -77,7 +77,7 @@
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
                                 <li><a href="index.jsp">Home</a></li>
-                                <li><a href="pricing.jsp">Pricing</a></li>                        
+                                <li><a href="pricing.jsp">Reserved Page</a></li>                        
                                 <li><a href="contact.jsp">Contact Us</a></li>                    
                             </ul>
                         </div><!-- /.header-title-nav -->
@@ -104,14 +104,14 @@
                                                 </a><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
 
-                                            <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
+<div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 1</a></h2>
+                                                        <h2><a href="#">What is Dinnery</a></h2>
 
-                                                        <p>Introduction 1 contents</p>
+                                                        <p>Dinnery is an app which help find strangers to have dinner together</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>More</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -121,11 +121,13 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 2</a></h2>
+                                                        <h2><a href="#">Feature of Dinnery</a></h2>
 
-                                                        <p>Introduction 2 contents</p>
+                                                        <p>Find strangers quickly<br/>
+                                                           Reliable platform
+                                                        </p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>More</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -151,11 +153,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-left sm-float-right">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 3</a></h2>
+                                                        <h2><a href="#">Pro of Dinnery</a></h2>
 
-                                                        <p>Indroduction 3 contents</p>
+                                                        <p>Dinnery could xxx</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>More</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -165,11 +167,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">Indroduction 4</a></h2>
+                                                        <h2><a href="#">Future of Dinnery</a></h2>
 
-                                                        <p>Indroduction 4 contents</p>
+                                                        <p>Business pattern introduction puts here</p>
 
-                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>Read More</a>
+                                                        <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>More</a>
                                                     </div><!-- /.portfolio-item-content -->
                                                 </div><!-- /.portfolio-grid-item-inner -->
                                             </div><!-- /.portfolio-grid-item -->
@@ -189,55 +191,17 @@
                    <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">About Our <span class="light">Company</span></h2>
+                            <h2 class="block-title"><span class="red">Mandoo Ltd.</span></h2>
 
-                            <div class="has-arrow block-large-text">
+                            <div class="block-large-text">
                                 <p>
-                                    Company introduction puts here
+                                   Mandoo Ltd. is a company which mainly provide services in Mainland China, Hong Kong and Singapore.
+                                   Current production is Dinnery
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">Read More</a>
+                                <a href="#" class="btn btn-red btn-large">Read More</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
-
-                    <!-- OUR CLIENTS -->
-                    <div class="block-content background-white no-margin-bottom fullwidth">
-                        <div class="block-content-inner">
-                            <h2 class="block-title">Our <span class="light">Clients</span></h2>
-
-                            <div class="has-arrow block-large-text mb50">
-                                <p>
-                                   Client puts here
-                                </p>
-                            </div><!-- /.block-large-text -->
-
-                            <div class="partners-items no-effect row">
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/themeforest.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/photodune.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/graphicriver.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/codecanyon.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->                                                                
-                            </div>
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content --
 
                     <!-- CAROUSEL -->
                     <div class="block-content background-primary-medium no-margin fullwidth bootstrap-carousel">
@@ -247,19 +211,27 @@
                                 <div class="item active">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-7 col-md-5">
-                                            <h2 class="block-title">Production <span class="light">Production 1</span></h2>
+                                            <h2 class="block-title-white"><span class="light" style= "margin-left:40px">Dinnery</span></h2>
 
-                                            <div class="block-large-text has-arrow">
+                                            <div class="block-large-text-white" style= "margin-left:40px">
                                                 <p>
-                                                    Production Production 1 contents
+                                                
+                                                		<br/>Huge numbers of active users
+                                                		<br/>Real users
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                   		
                                                 </p>
 
-                                                <a href="#" class="btn btn-white btn-large">View Detals</a>
+                                                <a href="#" class="btn btn-white btn-large">More</a>
                                             </div><!-- /.block-large-text -->
                                         </div>
 
                                         <div class="col-sm-5 col-md-7 center hidden-xs">
-                                            <img src="assets/img/tmp/carousels/mobile.png" alt="#" class="img-responsive">
+                                            <img src="assets\img\product2.png" alt="#" class="img-responsive">
                                         </div>
                                     </div><!-- /.row -->
                                 </div><!-- /.item -->
@@ -267,15 +239,23 @@
                                 <div class="item">
                                     <div class="row">
                                         <div class="col-sm-5 col-md-5 center hidden-xs">
-                                            <img src="assets/img/tmp/carousels/woman.png" alt="#" class="img-responsive">
+                                            <img src="assets\img\product4.png" alt="#" class="img-responsive">
                                         </div>
 
                                         <div class="col-xs-12 col-sm-7 col-md-7">
-                                            <h2 class="block-title">Production <span class="light">Production 2</span></h2>
+                                            <h2 class="block-title"><span class="light">Dinnery</span></h2>
 
-                                            <div class="block-large-text has-arrow">
+                                            <div class="block-large-text">
                                                 <p>
-                                                   Production Production 2 contents
+                                                 		                                                
+                                                		<br/>Find others in map
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                		<br/>
+                                                   		
                                                 </p>
                                             </div><!-- /.block-large-text -->
                                         </div>
@@ -296,15 +276,14 @@
                     <!-- CREATIVE TEAM -->
                     <div class="block-content background-white no-margin-bottom">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Creative <span class="light">Team</span></h2>
+                            <h2 class="block-title"> <span class="red">Team</span></h2>
 
-                            <div class="block-large-text has-arrow">
+                            <div class="block-large-text-red">
                                 <p>
-                                    Team Indroduction members:
+                                    		Team information
                                 </p>
                             </div><!-- /.block-large-text -->
 
-                            <div class="reset-block-padding mb100">
                                 <div class="team row">
                                     <div class="team-item col-sm-6 col-md-3 hidden-xs">
                                         <div class="team-item-inner">
@@ -314,7 +293,7 @@
                                                         <i class="fa fa-plus-circle"></i>
                                                     </span>
 
-                                                    <img src="assets/img/tmp/members/1.jpg" alt="#">
+                                                    <img src="assets/img/yunfan.jpg" alt="#">
                                                 </a>
                                             </div><!-- /.team-item-image -->                                
                                         </div><!-- /.team-item-inner -->
@@ -323,20 +302,13 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 1</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">Yunfan Zhang</a></h2>
+                                                <h3>Founder</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  	The founder of Dinnery，Master degree holder of the University of Hong Kong，The current job is to....
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                            
+                                         
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -349,7 +321,7 @@
                                                         <i class="fa fa-plus-circle"></i>
                                                     </span>
                                                     
-                                                    <img src="assets/img/tmp/members/2.jpg" alt="#">
+                                                    <img src="assets/img/zheyi.jpg" alt="#">
                                                 </a>
                                             </div><!-- /.team-item-image -->                                
                                         </div><!-- /.team-item-inner -->
@@ -358,20 +330,14 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-left">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 2</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">Zheyi Wang</a></h2>
+                                                <h3>Partner</h3>
 
                                                 <p>
-                                                     Briefly indroduction
+                                                  		  Partner of Dinnery，Master degree holder of the University of Hong Kong，，The current job 
+                                                  		  is to deal with financial area development in Rakuten, tokyo.
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                         
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -379,20 +345,13 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-right">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 3</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">To be announced</a></h2>
+                                                <h3>position</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  			  
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                      
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -414,20 +373,13 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">Name 4</a></h2>
-                                                <h3>Position</h3>
+                                                <h2><a href="#">To be announced</a></h2>
+                                                <h3>position</h3>
 
                                                 <p>
-                                                    Briefly indroduction
+                                                  		 
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                      
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -446,26 +398,21 @@
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
                                 </div><!-- /.row -->
-                            </div><!-- /.reset-block-padding -->
-
-                            <div class="center">
-                                <a href="#" class="btn btn-primary btn-large">Check Details</a>
-                            </div><!-- /.center -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
                     <!-- TWITTER -->
                     <div class="block-content has-ears background-twitter twitter">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Furry <span class="light">Project</span></h2>
+                            <h2 class="block-title">Dinnery</h2>
 
-                            <div class="block-large-text has-arrow make-it-dinosauric">
+                            <div class="block-large-text make-it-dinosauric">
                                 <div class="col-sm-8">
-                                    slogan here 
+                                    Team Information 
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <a href="#" class="btn btn-primary btn-white btn-large">Follow Us</a>
+                                    <a href="#" class="btn btn-primary btn-white btn-large">More Details</a>
                                 </div>
                             </div><!-- /.block-large-text -->
                         </div><!-- /.block-content-inner -->
@@ -485,7 +432,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">More Details</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">More Details</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -520,33 +467,33 @@
                                 </p>
                                 </div><!-- /.copyright -->
 
-                                <div class="footer-bottom-nav">
+ 								<div class="footer-bottom-nav">
                                     <ul class="nav nav-pills">
                                         <li>
                                             <a href="index.jsp">Home</a>                                        
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about.jsp">About us</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio.jsp">app Screenshot</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog.jsp">News</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact.jsp">Contacts</a>
+                                        </li>   
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>  
-                                        <li>
+                                        </li> 
+                                         <li>
                                             <a href="terms.jsp">Terms of Services</a>
-                                        </li>                                                                                            
+                                        </li>                                                                                                        
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

@@ -44,9 +44,9 @@
                     <ul class="nav nav-pills">
                         <li><a href="index.jsp">Home</a></li>
                         <li><a href="about.jsp">About Us</a></li>                        
-                        <li><a href="portfolio.jsp">Portfolio</a></li>
-                        <li><a href="blog.jsp">Blog</a></li>
-                        <li class="active"><a href="contact.jsp">Contact Us</a></li>  
+                        <li><a href="portfolio.jsp">App Sreenshot</a></li>
+                        <li><a href="blog.jsp">News</a></li>
+                        <li class="active"><a href="contact.jsp">Contacts</a></li>  
                         <li><a href="terms_cn.jsp">中文</a></li>                       
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
@@ -95,7 +95,7 @@
                     <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">Private <span class="light">Policy</span></h2>
+                            <h2 class="block-title"><span class="red">Private Policy</span></h2>
 
                             <div class="has-arrow block-large-text">
                                 <p>                                   
@@ -275,7 +275,7 @@
                                    
                                    
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">Read More</a>
+                                <a href="#" class="btn btn-red btn-large">Read More</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -312,26 +312,26 @@
                                         </li>
 
                                         <li>
-                                            <a href="about.jsp">About Us</a>
+                                            <a href="about.jsp">About us</a>
                                         </li>
 
                                         <li>
-                                            <a href="portfolio.jsp">Portfolio</a>
+                                            <a href="portfolio.jsp">app Screenshot</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog.jsp">Blog</a>
+                                            <a href="blog.jsp">News</a>
                                         </li>               
 
                                         <li>
-                                            <a href="contact.jsp">Contact us</a>
-                                        </li> 
+                                            <a href="contact.jsp">Contacts</a>
+                                        </li>   
                                         <li>
                                             <a href="private.jsp">Private Policy</a>
-                                        </li>  
-                                        <li>
+                                        </li> 
+                                         <li>
                                             <a href="terms.jsp">Terms of Services</a>
-                                        </li>                                                                                                                                     
+                                        </li>                                                                                                                                      
                                     </ul>
                                 </div><!-- /.footer-bottom-nav -->
                             </div><!-- /.col-sm-12 -->

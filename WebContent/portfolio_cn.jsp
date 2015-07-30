@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/gosloo.css" media="screen, projection">
 	<link href="http://fonts.useso.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
-    <title>作品集</title>
+    <title>app美图</title>
 </head>
 
 <body>
@@ -45,8 +45,8 @@
                     <ul class="nav nav-pills">
                         <li><a href="index_cn.jsp">主页</a></li>
                         <li><a href="about_cn.jsp">关于我们</a></li>                        
-                        <li  class="active"><a href="portfolio_cn.jsp">作品集</a></li>
-                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li  class="active"><a href="portfolio_cn.jsp">app美图</a></li>
+                        <li><a href="blog_cn.jsp">新闻</a></li>
                         <li><a href="contact_cn.jsp">联系我们</a></li> 
                         <li><a href="portfolio.jsp">English</a></li>                          
                     </ul><!-- /.nav -->
@@ -73,7 +73,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1 class="header-title-main">我们的作品集</h1>
+                        <h1 class="header-title-main">饭事美图</h1>
 
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
@@ -103,8 +103,7 @@
                                             <span class="portfolio-target-hover">
                                                 <i class="fa fa-plus-circle"></i>
                                             </span><!-- /.span-portfolio-target-hover -->
-
-                                            <img src="assets/img/tmp/portfolio/1-small.jpg" alt="#" class="img-responsive">
+                                            <img src="assets/img/apppic1.png" alt="#" class="img-responsive">
                                         </a>
                                     </div><!-- /.portfolio-item-inner -->
                                 </div><!-- /.portfolio-item -->                
@@ -116,7 +115,7 @@
                                                 <i class="fa fa-plus-circle"></i>
                                             </span><!-- /.span-portfolio-target-hover -->
 
-                                            <img src="assets/img/tmp/portfolio/2-small.jpg" alt="#" class="img-responsive">
+                                            <img src="assets/img/apppic2.png" alt="#" class="img-responsive">
                                         </a>
                                     </div><!-- /.portfolio-item-inner -->
                                 </div><!-- /.portfolio-item -->    
@@ -152,7 +151,7 @@
                                                 <i class="fa fa-plus-circle"></i>
                                             </span><!-- /.span-portfolio-target-hover -->
 
-                                            <img src="assets/img/tmp/portfolio/5-small.jpg" alt="#" class="img-responsive">
+                                            <img src="assets/img/apppic3.png" alt="#" class="img-responsive">
                                         </a>
                                     </div><!-- /.portfolio-item-inner -->
                                 </div><!-- /.portfolio-item -->                
@@ -265,7 +264,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -311,11 +310,11 @@
                                         </li>
 
                                         <li>
-                                            <a href="portfolio_cn.jsp">作品集</a>
+                                            <a href="portfolio_cn.jsp">app美图</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog_cn.jsp">博客</a>
+                                            <a href="blog_cn.jsp">新闻</a>
                                         </li>               
 
                                         <li>

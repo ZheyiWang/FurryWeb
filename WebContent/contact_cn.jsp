@@ -44,8 +44,8 @@
                     <ul class="nav nav-pills">
                         <li><a href="index_cn.jsp">主页</a></li>
                         <li><a href="about_cn.jsp">关于我们</a></li>                        
-                        <li><a href="portfolio_cn.jsp">作品集</a></li>
-                        <li><a href="blog_cn.jsp">博客</a></li>
+                        <li><a href="portfolio_cn.jsp">app美图</a></li>
+                        <li><a href="blog_cn.jsp">新闻</a></li>
                         <li class="active"><a href="contact_cn.jsp">联系我们</a></li> 
                         <li><a href="contact.jsp">English</a></li>                        
                     </ul><!-- /.nav -->
@@ -95,13 +95,18 @@
  				<!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">关于 <span class="light">我们公司</span></h2>
+                            <h2 class="block-title"> <span class="red">联系方式</span></h2>
 
-                            <div class="has-arrow block-large-text">
-                                <p>
-                                    	公司介绍
+                            <div class="block-large-text">
+                                <p>	
+                                    	电话:xxxx<br/>
+                                    	邮编: xxx<br/>
+                                    	地址：香港xxxx<br/>
+                                    	地图预留位置
+                                    	
+                                    	
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">了解更多</a>
+                                <a href="#" class="btn btn-red btn-large">了解更多</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
@@ -110,24 +115,20 @@
                     <!-- MESSAGE -->
                     <div class="block-content background-twitter has-ears">
                         <div class="block-content-inner">
-                            <h2 class="block-title white">留 <span class="light">言</span></h2>
+                            <h2 class="block-title white">留言</h2>
 
                             <form method="post" action="?" class="reset-block-padding">
                                 <div class="row">
                                     <div class="form-group col-sm-8">
-                                        <input type="text" class="form-control input-transparent" placeholder="名字">
+                                        <input type="text" class="form-control input-transparent" placeholder="您的姓名">
                                     </div><!-- /.form-group -->
 
                                     <div class="form-group col-sm-8">
                                         <input type="email" class="form-control input-transparent" placeholder="电子邮箱地址">
                                     </div><!-- /.form-group -->
 
-                                    <div class="form-group col-sm-8">
-                                        <input type="text" class="form-control input-transparent" placeholder="http://">
-                                    </div><!-- /.form-group -->
-
                                     <div class="form-group col-sm-12">
-                                        <textarea class="form-control input-transparent" rows="7" placeholder="信息"></textarea>                                    
+                                        <textarea class="form-control input-transparent" rows="7" placeholder="您的留言"></textarea>                                    
                                     </div><!-- /.form-group -->
 
                                     <div class="col-sm-12">
@@ -152,7 +153,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -197,11 +198,11 @@
                                         </li>
 
                                         <li>
-                                            <a href="portfolio_cn.jsp">作品集</a>
+                                            <a href="portfolio_cn.jsp">app美图</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog_cn.jsp">博客</a>
+                                            <a href="blog_cn.jsp">新闻</a>
                                         </li>               
 
                                         <li>

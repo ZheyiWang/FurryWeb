@@ -44,9 +44,9 @@
                     <ul class="nav nav-pills">
                         <li><a href="index_cn.jsp">主页</a></li>
                         <li class="active"><a href="about_cn.jsp">关于我们</a></li>                        
-                        <li><a href="portfolio_cn.jsp">作品集</a></li>
-                        <li><a href="blog_cn.jsp">博客</a></li>
-                        <li><a href="contact_cn.jsp">联系我</a></li>
+                        <li><a href="portfolio_cn.jsp">app美图</a></li>
+                        <li><a href="blog_cn.jsp">新闻</a></li>
+                        <li><a href="contact_cn.jsp">联系我们</a></li>
                         <li><a href="about.jsp">English</a></li>                      
                     </ul><!-- /.nav -->
                 </nav><!-- /.header-nav -->
@@ -77,7 +77,7 @@
                         <div class="header-title-nav">
                             <ul class="nav nav-pills">
                                 <li><a href="index_cn.jsp">主页</a></li>
-                                <li><a href="pricing_cn.jsp">价格</a></li>                        
+                                <li><a href="pricing_cn.jsp">预留页</a></li>                        
                                 <li><a href="contact_cn.jsp">联系我们</a></li>                    
                             </ul>
                         </div><!-- /.header-title-nav -->
@@ -91,7 +91,7 @@
         <div class="main">
             <div class="main-inner">
                 <div class="container">
-                     <!-- PORTFOLIO -->
+  <!-- PORTFOLIO -->
                     <div class="block-content background-gray no-margin-bottom no-padding">
                         <div class="block-content-inner">
                             <div class="portfolio-grid">
@@ -107,9 +107,9 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 1</a></h2>
+                                                        <h2><a href="#">饭事是什么</a></h2>
 
-                                                        <p>介绍 1 内容</p>
+                                                        <p>饭事是一款帮助陌生人找到饭友的app</p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -121,9 +121,11 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-right sm-float-left">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 2</a></h2>
+                                                        <h2><a href="#">饭事的特点</a></h2>
 
-                                                        <p>介绍 2 内容</p>
+                                                        <p>快速发现饭友<br/>
+                                                           	真实的平台
+                                                        </p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -151,9 +153,9 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6 pull-left sm-float-right">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 3</a></h2>
+                                                        <h2><a href="#">饭事的优点</a></h2>
 
-                                                        <p>介绍 3 内容</p>
+                                                        <p>饭事可以xxx</p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -165,9 +167,9 @@
                                             <div class="portfolio-grid-item portfolio-grid-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-6">
                                                 <div class="portfolio-grid-item-inner xs-no-square">
                                                     <div class="portfolio-grid-item-content">
-                                                        <h2><a href="#">介绍 4</a></h2>
+                                                        <h2><a href="#">饭事的未来</a></h2>
 
-                                                        <p>介绍 4 内容</p>
+                                                        <p>商业模式介绍</p>
 
                                                         <a href="#" class="btn"><i class="fa fa-arrow-circle-o-right"></i>了解更多</a>
                                                     </div><!-- /.portfolio-item-content -->
@@ -189,55 +191,18 @@
                   <!-- ABOUT OUR COMPANY -->
                     <div class="block-content has-ears background-white">
                         <div class="block-content-inner">
-                            <h2 class="block-title">关于 <span class="light">我们公司</span></h2>
+                            <h2 class="block-title"><span class="red">满度科技有限公司</span></h2>
 
-                            <div class="has-arrow block-large-text">
+                            <div class="block-large-text">
                                 <p>
-                                    	公司介绍
+                                    	香港满度科技有限公司是一间成立于香港，服务于香港、大陆以及新加坡的公司。<br/>
+                                    	目前的产品有 “饭事”。
                                 </p>
-                                <a href="#" class="btn btn-primary btn-large">了解更多</a>
+                                <a href="#" class="btn btn-red btn-large">了解更多</a>
                             </div><!-- /.has-arrow -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
-                    <!-- OUR CLIENTS -->
-                    <div class="block-content background-white no-margin-bottom fullwidth">
-                        <div class="block-content-inner">
-                            <h2 class="block-title">我们的 <span class="light">客户</span></h2>
-
-                            <div class="has-arrow block-large-text mb50">
-                                <p>
-                                   	客户信息
-                                </p>
-                            </div><!-- /.block-large-text -->
-
-                            <div class="partners-items no-effect row">
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/themeforest.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/photodune.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/graphicriver.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->
-
-                                <div class="partner-item col-sm-3 col-xs-12 center">
-                                    <a href="#" class="partner-target">
-                                        <img src="assets/img/tmp/logos/codecanyon.png" alt="#">
-                                    </a>
-                                </div><!-- /.partner-item -->                                                                
-                            </div>
-                        </div><!-- /.block-content-inner -->
-                    </div><!-- /.block-content -->
 
                     <!-- CAROUSEL -->
                     <div class="block-content background-primary-medium no-margin fullwidth bootstrap-carousel">
@@ -247,11 +212,11 @@
                                 <div class="item active">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-7 col-md-5">
-                                            <h2 class="block-title">产品 <span class="light">介绍1</span></h2>
+                                            <h2 class="block-title">公司介绍 <span class="light"></span></h2>
 
                                             <div class="block-large-text has-arrow">
                                                 <p>
-                                                   		产品介绍1
+                                                   		公司简介
                                                 </p>
 
                                                 <a href="#" class="btn btn-white btn-large">查看详情</a>
@@ -271,11 +236,11 @@
                                         </div>
 
                                         <div class="col-xs-12 col-sm-7 col-md-7">
-                                            <h2 class="block-title">产品 <span class="light">介绍2</span></h2>
+                                            <h2 class="block-title">公司介绍</h2>
 
                                             <div class="block-large-text has-arrow">
                                                 <p>
-                                                 		 产品介绍2
+                                                 		 公司简介2
                                                 </p>
                                             </div><!-- /.block-large-text -->
                                         </div>
@@ -296,15 +261,14 @@
                     <!-- CREATIVE TEAM -->
                     <div class="block-content background-white no-margin-bottom">
                         <div class="block-content-inner">
-                            <h2 class="block-title">我们的 <span class="light">团队</span></h2>
+                            <h2 class="block-title"> <span class="red">我们的团队</span></h2>
 
-                            <div class="block-large-text has-arrow">
+                            <div class="block-large-text-red">
                                 <p>
                                     		团队信息
                                 </p>
                             </div><!-- /.block-large-text -->
 
-                            <div class="reset-block-padding mb100">
                                 <div class="team row">
                                     <div class="team-item col-sm-6 col-md-3 hidden-xs">
                                         <div class="team-item-inner">
@@ -314,7 +278,7 @@
                                                         <i class="fa fa-plus-circle"></i>
                                                     </span>
 
-                                                    <img src="assets/img/tmp/members/1.jpg" alt="#">
+                                                    <img src="assets/img/yunfan.jpg" alt="#">
                                                 </a>
                                             </div><!-- /.team-item-image -->                                
                                         </div><!-- /.team-item-inner -->
@@ -323,20 +287,13 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 1</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">张云帆</a></h2>
+                                                <h3>创始人</h3>
 
                                                 <p>
-                                                  	  简介
+                                                  	  饭事创始人，香港大学硕士毕业生，现在国泰航空从事xx工作。有多年软件开发经验。
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                            
+                                         
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -349,7 +306,7 @@
                                                         <i class="fa fa-plus-circle"></i>
                                                     </span>
                                                     
-                                                    <img src="assets/img/tmp/members/2.jpg" alt="#">
+                                                    <img src="assets/img/zheyi.jpg" alt="#">
                                                 </a>
                                             </div><!-- /.team-item-image -->                                
                                         </div><!-- /.team-item-inner -->
@@ -358,20 +315,13 @@
                                     <div class="team-item team-item-arrow-left xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-left">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 2</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">汪哲逸</a></h2>
+                                                <h3>合伙人</h3>
 
                                                 <p>
-                                                  		  简介
+                                                  		  饭事合伙人，香港大学硕士毕业生，现在日本乐天从事互联网金融工作。有多年软件开发经验。
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                         
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -379,20 +329,13 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3 sm-float-right">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 3</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">虚位以待</a></h2>
+                                                <h3>职位</h3>
 
                                                 <p>
-                                                  			  简介
+                                                  			  
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                      
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -414,20 +357,13 @@
                                     <div class="team-item team-item-arrow-right xs-no-arrow sm-no-arrow col-sm-6 col-md-3">
                                         <div class="team-item-inner xs-no-square">
                                             <div class="team-item-content">
-                                                <h2><a href="#">成员 4</a></h2>
-                                                <h3>位置</h3>
+                                                <h2><a href="#">虚位以待</a></h2>
+                                                <h3>职位</h3>
 
                                                 <p>
-                                                  		 简介
+                                                  		 
                                                 </p>
-
-                                                <ul class="social">
-                                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-flickr"></i></a></li>
-                                                    <li><a href="#"><i class="fa fa-tumblr"></i></a></li>                                                              
-                                                </ul><!-- /.social -->                                          
+                                      
                                             </div><!-- /.team-item-content -->                                
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
@@ -446,26 +382,21 @@
                                         </div><!-- /.team-item-inner -->
                                     </div><!-- /.team-item -->
                                 </div><!-- /.row -->
-                            </div><!-- /.reset-block-padding -->
-
-                            <div class="center">
-                                <a href="#" class="btn btn-primary btn-large">查看详情</a>
-                            </div><!-- /.center -->
                         </div><!-- /.block-content-inner -->
                     </div><!-- /.block-content -->
 
                     <!-- TWITTER -->
                     <div class="block-content has-ears background-twitter twitter">
                         <div class="block-content-inner">
-                            <h2 class="block-title">饭<span class="light">事</span></h2>
+                            <h2 class="block-title">饭事团队</h2>
 
-                            <div class="block-large-text has-arrow make-it-dinosauric">
+                            <div class="block-large-text make-it-dinosauric">
                                 <div class="col-sm-8">
-                                 	   主题 
+                                 	  团队信息 
                                 </div>
 
                                 <div class="col-sm-4">
-                                    <a href="#" class="btn btn-primary btn-white btn-large">关注我们</a>
+                                    <a href="#" class="btn btn-primary btn-white btn-large">了解更多</a>
                                 </div>
                             </div><!-- /.block-large-text -->
                         </div><!-- /.block-content-inner -->
@@ -485,7 +416,7 @@
                                 </div>
 
                                 <div class="col-xs-12 col-sm-4 col-md-3">
-                                    <a href="#" class="btn btn-large btn-primary btn-block">更多</a>
+                                    <a href="#" class="btn btn-large btn-red btn-block">更多</a>
                                 </div>
                             </div><!-- /.row -->
                         </div><!-- /.block-content-inner -->
@@ -531,11 +462,11 @@
                                         </li>
 
                                         <li>
-                                            <a href="portfolio_cn.jsp">作品集</a>
+                                            <a href="portfolio_cn.jsp">app美图</a>
                                         </li>
 
                                         <li>
-                                            <a href="blog_cn.jsp">博客</a>
+                                            <a href="blog_cn.jsp">新闻</a>
                                         </li>               
 
                                         <li>
